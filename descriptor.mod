@@ -1,4 +1,4 @@
-version="0.22"
+version="0.4"
 tags={
 	"Fixes"
 	"Sound"
@@ -10,5 +10,5 @@ dependencies={
 }
 picture="thumbnail.png"
 supported_version="*"
-path="C:/Users/thks1/Documents/Paradox Interactive/Hearts of Iron IV/mod/tgwr-krmusic"
+path="E:/Modding/Hearts of Iron IV/tgwr-krmusic"
 remote_file_id="2894595482"
