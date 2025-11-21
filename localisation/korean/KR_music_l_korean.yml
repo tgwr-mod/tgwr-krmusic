@@ -1,0 +1,1337 @@
+﻿l_korean:
+
+#############################
+#####      Generic      #####
+#############################
+
+### Special ###
+ amazing_grace: "Amazing Grace\n§P어메이징 그레이스§!"
+
+### Third International/ General Syndicalist ###
+ syn_the_internationale: "The Internationale\n§P인터내셔널가§!"
+
+#############################
+##### Cultural  Regions #####
+#############################
+
+### (US) American Tags ###
+ USA_the_sheik_of_araby: "The Sheik of Araby"
+ USA_marie: "Marie"
+ USA_weary_blues: "Weary Blues"
+ USA_liebestraum: "Liebestraum"
+ USA_hawaiian_war_chant: "Hawaiian War Chant"
+ USA_john_silver: "John Silver"
+ USA_immigration_blues: "Immigration Blues"
+ USA_puttin_on_the_ritz: "Puttin' On the Ritz"
+ USA_god_bless_america: "God Bless America"
+ strike_up_the_band: "Strike Up the Band!"
+ pocketful_of_dreams: "I've got a Pocketful of Dreams"
+ a_dime_from_every_dollar: "I'm Saving a Dime Out of Every Dollar"
+ the_bombardier_song: "The Bombardier Song"
+ comin_in_on_a_wing_and_a_prayer: "Comin' in on a Wing and a Prayer"
+ pistol_packin_mama: "Pistol Packin' Mama"
+ a_zoot_suit: "A Zoot Suit for my Sunday Gal"
+ boogie_woogie: "Boogie Woogie Bugle Boy"
+ g_i_give: "G.I. Jive"
+ american_patrol: "American Patrol"
+ moonlight_serenade: "Moonlight Serenade"
+ when_johnny_comes_marching_home: "When Johnny Comes Marching Home Again"
+
+### Andean Region ###
+ la_cuchara_de_palo: "La Cuchara de Palo\n§PThe Wooden Spoon§!"
+ andean_improvisation: "Andean Improvisation"
+ danza_del_sicuri: "La Danza del Sicurí\n§PThe Dance of the Sicuri§!"
+ cordillera: "Cordillera\n§PMountain Range§!"
+ alturas: "Alturas\n§PHeights§!"
+
+### Arabian Region ###
+ yamurru_uyaban: "Yamurru Uyaban"
+ bashraf_farahfaza: "Bashraf Farahfaza"
+ bint_al_balad: "Bint al-Balad"
+ hussak_samai: "Hussak Samai"
+ longa_farahfaza: "Longa Farahfaza"
+ longa_shahnaz: "Longa Shahnaz"
+ samai_bayati: "Samai Bayati"
+ samai_shahnaz: "Samai Shahnaz"
+ bayyati_maqam: "Bayyātī Maqām"
+
+### Bolivarian Region ###
+ conticinio: "Conticinio"
+ el_miranchurito: "El Miranchurito"
+ la_gata_golosa: "La Gata Golosa\n§PThe Greedy Cat§!"
+ san_pedro_en_el_espinal: "San Pedro en el Espinal\n§PSaint Peter in the Spinal§!"
+ brisas_del_pamplonita: "Brisas del Pamplonita\n§PPamplonita's Breezes§!"
+
+### Southeast Asia Region ###
+ isan_medley: "Lamnam Isan\n§PIsan Medley§!"
+ southern_selection: "Lamnam Pattani\n§PPattani Medley§!"
+ northern_selection: "Lamnam Lanna\n§PLanna Medley§!"
+ thap_chiangmai: "Thap Chiang Mai\n§PChiang Mai Medley§!"
+
+### Centroamerican Region ###
+ ahora: "Ahora\n§PNow§!"
+ bajo_el_almendro: "Bajo el Almendro\n§PUnder the Almond Tree§!"
+ waltz_ismenia: "Vals Ismenia\n§PIsmenia Waltz§!"
+ waltz_leda: "Vals Leda\n§PLeda Waltz§!"
+ obertura_indigena: "Obertura Indigena\n§PIndigenous Overture§!"
+ la_granadera: "La Granadera\n§PThe Grenadier March§!"
+ ruinas: "Ruinas\n§PRuins Waltz§!"
+ himno_a_juan_santamaria: "Himno a Juan Santamaria\n§PHymn to Juan Santamaria§!"
+ el_candu: "El Candú"
+
+### Chinese Region ###
+ flowers_of_spring: "Yingchun Hua\n§PWinter Jasmine§!"
+ golden_snakes_furiously_dancing: "Jinshe Kuang Wu\n§PGolden Snakes Furiously Dancing§!"
+ shanghai_lil_edogawa_version: "Shanghai Lil\n§PEdogawa Version§!"
+ spring_returns_to_earth: "Dadi Huichun\n§PSpring Returns To Earth§!"
+ reflection_of_the_moon_in_the_erqual_pool: "Erquan Yingyue\n§PThe Moon's Reflection in the Second Spring§!"
+ song_of_victory: "Kai Xuan Ge\n§PSong of Victory§!"
+ blooming_flowers_full_moon: "Yue Yuan Hua Hao\n§PBlooming Flowers Full Moon§!"
+ my_life_without_you: "Ruguo Meiyou Ni\n§PMy Life Without You§!"
+ love_of_white_jade_orchid: "Bailan Zhi Lian\n§PThe Love of White Jade Orchid§!"
+ the_swallow: "Lixianglan-haiyan\n§PThe Swallow§!"
+ forever_smiling: "Yong Yuan De Wei Xiao\n§PForever Smiling§!"
+ qi_zheng_piao_piao: "Qi Zheng Piaopiao\n§PFluttering Flag§!"
+
+### East African Region ###
+ aichi_na_wawee: "Aichi na Wawee"
+ arabian_conga: "Arabian Conga"
+ furaha_ya_kanu: "Furaha Ya Kanu"
+ napenda: "Napenda"
+ tela: "Tela"
+ nambanda: "Nambanda"
+ tom_tom: "Tom Tom"
+
+### Eastern European Region ###
+ autumn_dream: "Autumn Dream Waltz"
+ hej_sokoly: "Hej, Sokoły!\n§PHey, Falcons!§!"
+
+### German Tags ###
+ # Conservative
+ fridericus_rex: "Fridericus Rex\n§PKing Frederick§!"
+ argonnerwald: "Argonnerwald\n§PArgonnes Forest§!"
+ hoch_in_ehren: "Hoch in Ehren\n§PHigh in Honours§!"
+ coburger_marsch: "Coburger Marsch\n§PCoburg March§!"
+ heil_dir_im_siegerkranz: "Heil dir im Siegerkranz\n§PHail You in the Victor's Wreath§!"
+ preussens_gloria: "Preußens Gloria\n§PPrussia's Glory§!"
+ koniggratzer_marsch: "Königgrätzer Marsch\n§PKöniggrätz March§!"
+ unsere_marine: "Unsere Marine\n§POur Navy§!"
+ was_ist_des_deutschen: "Was ist des Deutschen Vaterland?\n§PWhat's a Germans Fatherland?§!"
+ yorckscher_marsch: "Yorckscher Marsch\n§PYorckish March§!"
+ muss_i_denn: "Muss I denn zum Städele hinaus\n§PDo I Have to Leave the City?§!"
+ wir_lagen_vor_madagaskar: "Wir lagen vor Madagaskar\n§PWe Are Laying Off Madagaskar§!" # Placed here unless there's a seperate Madagaskar-Friestatt tag
+ kaiser_wilhelm_siegesmarsch: "Kaiser Wilhelm Siegesmarsch\n§PEmperor Wilhelm's Victory March§!"
+ mein_kleiner_gruner_kaktus: "Mein Kleiner Grüner Kaktus\n§PMy Small Green Cactus§!"
+ alte_kameraden_marsch: "Alte Kameraden Marsch\n§POld Comrades March§!"
+ siegesmarsch_von_metz: "Siegesmarsch von Metz\n§PMetz Victory March§!"
+ die_wacht_am_rhein: "Die Wacht am Rhein\n§PThe Watch on the Rhine§!"
+ fliegergeschwader_hindenburg: "Fliegergeschwader Hindenburg\n§PSquadron Hindenburg"
+ lili_marlene: "Lili Marlene"
+ das_gibts_nur_einmal: "Das Gibts nur Einmal\n§PThat's Unique§!"
+ veronika_der_lez: "Veronika, der Lenz ist da!\n§PVeronika, Spring is here!§!"
+ komm_zuruck: "Komm Zurück!\n§PCome Back!§!"
+ pariser_einzugsmarsch: "Pariser Einzugsmarsch\n§PParisian March§!"
+ musik_musik_musik: "Musik, Musik, Musik!\n§PMusic, Music, Music!§!"
+ sommer_see_und_sonnenschein: "Sommer, See und Sonnenschein\n§PSummer, the Sea and Sunshine§!"
+ ist_so_schon_soldat_zu_sein_Rosemarie: "Es ist so schön Soldat zu sein, Rosemarie\n§PIt's so nice to be a soldier, Rosemarie§!"
+ das_kann_doch_einen_seemann: "Das kann doch einen Seemann nicht erschüttern\n§PNow this can't shock a sailor§!"
+ wenn_die_sonja_russisch_tanzt: "Wenn die Sonja Russisch Tanzt\n§PWhen Sonya Dances Russian Style§!"
+ wo_die_lotusblueten_bluehn: "Wo die Lotusblüten Blüh'n\n§PWhere the Lotus Blossoms Bloom§!"
+ wolgawellen: "Wolgawellen\n§PVolga Waves§!"
+ nachtexpress_nach_warschau: "Nachtexpress nach Warschau\n§PNight Express to Warsaw§!"
+ funiculi_funicula: "Funiculi Funicula"
+ ach_jette: "Ach Jette, ach Jette\n§POh Jette, Oh Jette§!"
+ einmal_schaffts_jeder: "Einmal schafft's jeder\n§PEveryone Will Make It Someday§!"
+
+### Indian Region ###
+ HND_kafi_holi: "Kafi-Holi\n§PSpring Festival of Colours§!"
+ HND_dhun: "Dhun\n§PFolk Airs§!"
+ HND_mishra_piloo: "Mishra Piloo"
+ HND_raga_puriya_dhanashri: "Raga Puriya Dhanashri"
+ HND_raga_charu_keshi: "Raga Charu Keshi"
+ jana_gana_maza: "Jana Gana Mana\n§PThou Art the Ruler of the Minds of All People§!"
+ o_pardesi_musafir: "O Pardesi Musafir"
+ duniya_walay: "Duniya Walay\n§POne World§!"
+
+### Platinean Region ###
+ por_un_cabeza: "Por una Cabeza\n§PBy a head§!"
+ puente_alsina: "Puente Alsina\n§PAlsina's Bridge§!"
+ cambalache: "Cambalache"
+ caminito: "Caminito"
+ yira_yira: "Yira Yira"
+
+#############################
+#####   Tag  Specific   #####
+#############################
+
+####     E U R O P E     ####
+
+### AFG - Afghanistan ###
+ da_pukhto_tair_hair_awazona: "Da Pukhto Tair Hair Awazona"
+
+### ALB - Albania ###
+ himni_i_flamurit: "Himni i Flamurit\n§PHymn of the Flag§!"
+
+### AUS - Austria ###
+ totenfeier: "Totenfeier\n§PFuneral Rites§!"
+ radetzky_march: "Radetzkymarsch\n§PRadetzky March§!"
+ gott_erhalte: "Gott Erhalte, Gott Beschütze\n§PGod preserve, God protect§!"
+ alpenjaeger_marsch: "Alpenjägermarsch\n§PAlpine Hunter's March§!"
+ doppeladler: "Unter dem Doppeladler\n§PUnder the Double Eagle§!"
+ hungarian_dance: "Ungarischer Tanz No. 5\n§PHungarian Dance No. 5§!"
+ kaerntner_liedermarsch: "Kärntner Liedermarsch\n§PCarinthian Songs March§!"
+ the_blue_danube: "An der schönen blauen Donau\n§PThe Blue Danube§!"
+ albrecht: "Erzherzog Albrecht Marsch\n§PArch Duke Albrecht March§!"
+ die_bosniaken_kommen: "Die Bosniaken kommen Marsch\n§P'The Bosnians are coming' March§!"
+ die_arbeiter_von_wien: "Die Arbeiter von Wien\n§PThe Workers of Vienna§!"
+ rainermarsch: "Rainermarsch\n§PRainer's March§!"
+ florentiner_marsch: "Florentiner Marsch\n§PFlorentine March§!"
+ danubia_marsch: "Danubia Marsch\n§PDanubia March§!"
+ wien_du_stadt_meiner_traeume: "Wien, du Stadt meiner Träume\n§PVienna, City of my Dreams§!"
+
+### BEL - Belgium/Flanders-Wallonia ###
+ la_brabanconne: "La Brabançonne\n§PSong of Brabant§!"
+ chant_des_wallons: "Chant des Wallons\n§PSong of the Walloons§!"
+ vers_l_avenir: "Vers l'Avenir\n§POnto the Future§!"
+ vlaamse_leeuw: "Vlaamse Leeuw\n§PLion of Flanders§!"
+ march_of_parachutists: "Mars van de Parachutisten\n§PMarch of the Paratroopers§!"
+ bel_minor_swing: "Minor Swing"
+ porte_de_namur: "Porte de Namur\n§PGate of Namur§!"
+ modernes_tempo: "Modernes Tempo"
+ wedding_of_pocahontas: "Mariage de Pocahontas\n§PWedding of Pocahontas§!"
+ paartaler_marsch: "Paartaler Mars\n§PTwin Valley March§!"
+ 4_eme_escadron_du_1er_regiment_de_guides: "Marche du 4ème Escadron du 1er Régiment de Guides\n§PMarch of the 4th Squadron of the 1st Regiment of Guides§!"
+
+### BLR - Belarus ###
+ pahonia: "Pahonia\n§PKnight§!"
+ mahutny_boza: "Mahutny Boža\n§PMighty God§!"
+ u_muscarach: "U Huščarach\n§PIn the Thickets§!"
+ vajacki_mars: "Vajacki Marš\n§PMarch of the Warriors§!"
+ za_sluccynu: "Za Sluččynu!\n§PFor Slutsk!§!"
+
+### BUL - Bulgaria ###
+ shumi_marica: "Shumi Marica"
+ velik_e_nashijat_vojnik: "Velik e Nashijat Vojnik\n§POur Great Soldier§!"
+ balkan_rhapsody_vardar: "Balkan Rhapsody Vardar"
+ himn_na_negovo_velicestvo_carja: "Bože Carja ni pazi!\n§PGod Save our Tsar!§!"
+ stani_stani_junak_balkanski: "Stani, Stani, Junak Balkanski\n§PGet Up, Get Up, Balkan Champion§!"
+ tih_bjal_dunav: "Tih Bjal Dunav\n§PThe Quiet White Danube§!"
+ vjatr_eci_balkan_stene: "Vjatr eci Balkan Stene\n§PThe Wind Grows§!"
+ vrvi_narode_vzrodeni: "V'rvi, narode v'zrodeni\n§PGo, Revived People!§!"
+ song_of_labor: "Pesen na Truda\n§PSong of Labour§!"
+
+### BOS - Bosnia ###
+ poljem_se_vija: "Poljem se Vija\n§PRaised in the Fields§!"
+
+### CRO - Croatia ###
+ lijepa_nasa_domovino: "Lijepa Naša Domovino\n§POur Beautiful Homeland§!"
+ dinarka_ples_bola_i_ponosa: "Dinarka, Ples Bola I Ponosa\n§PDance of Grief and Dignity From the Mountain Dinara§!"
+ idila: "Idila"
+ istarska_suita: "Istarska Suita\n§PIstrian Suite§!"
+ laka_konjica: "Laka Konjica\n§PLight Cavalry§!"
+
+### CZE - Bohemia ###
+ ma_vlastva: "Vltava\n§PThe Moldau§!"
+ cesky_pevecky_sbor: "Ktož Jsú Boží Bojovníci\n§PYou Warriors of God§!"
+ cesky_pochod: "Cesky Pochod\n§PCzech March§!"
+ muj_konicek: "Muj Koníček\n§PMy Little Horse§!"
+ pochod_28_pesiho_pluku: "Pochod 28. Pesiho Pluku\n§PMarch of the 28th Regiment§!"
+
+### DEN - Denmark ###
+ denmark_for_folket: "Danmark for folket\n§PDenmark for the People§!"
+ dengang_jeg_drog_afsted: "Dengang jeg drog afsted\n§PWhen I Left§!"
+ der_et_yndigt_land: "Der et yndigt land\n§PThere is a Lovely Land§!"
+ hvor_smiler_fager_den_danske_kyst: "Hvor smiler fager den danske kyst\n§PHow Fair the Danish Coast Smiles§!"
+ er_kobenhavn_den_samme: "Er København den samme som den var engang\n§PIs Copenhagen the Same as It Once Was§!"
+ som_et_sus: "Som et sus\n§PLike a Whoosh§!"
+ landsbypolka: "Landsbypolka\n§PVillage Polka§!"
+ signalgalop: "Signalgalop\n§PSignal Gallop§!"
+ skarpskyttemarch: "Skarpskyttemarch\n§PSharpshooter March§!"
+ avantgarde: "Avantgarde March"
+ amalienborg_march: "Amalienborg March"
+ kobenhavner_march: "Københavnermarch\n§PCopenhagener March§!"
+ #Conservative
+ kong_christian: "Kong Christian\n§PKing Christian§!"
+ der_rider_en_konge: "Der rider en konge\n§PThere Rides a King§!"
+ kongemarch: "Kongemarch\n§PRoyal March§!"
+ king_frederik_7_march: "Kong Frederik VII's Honnørmarch\n§PKing Frederick's Honour March§!"
+
+### ENG - Union of Britain ###
+ hold_the_fort: "Hold the Fort"
+ the_red_flag: "The Red Flag"
+ england_arise: "England Arise, The Long Night is Over"
+ hang_out_the_washing_on_the_siegfried_line: "We will hang out the washing on the Siegfried Line"
+ jerusalem: "Jerusalem"
+
+### EST - Estonia ###
+ sumfoonia_nr_2_c_moll: "Artur Kapp's Symphony Nº2"
+ twilight: "Videvik\n§PTwilight§!"
+ dawn: "Koit\n§PDawn§!"
+ don_carlos: "Don Carlos"
+ eesti_lipp: "Eesti Lipp\n§PEstonian Flag§!"
+ kodumaa: "Kodumaa\n§PHomeland§!"
+ mu_isamaa_mu_onn_ja_room: "Mu Isamaa, Mu Õnn Ja Rõõm\n§PMy Fatherland, My Happiness and Joy§!"
+
+### FIN - Finland ###
+ sakkijarvi: "Säkkijärven Polkka\n§PThe Polka of Säkkijärvi§!"
+ ai_ai_kerensky: "Ai, Ai, Kerenski!\n§PHey, Hey, Kerensky!§!"
+ ievan_polkka: "Ievan Polkka\n§PIeva's Polka§!"
+ maantie: "Maantie On Kova Kävellä\n§PA Country Road is Hard to Walk§!"
+ jaakari: "Jääkärimarssi\n§PJäger March§!"
+ kay: "Käy Rohkeena Taistoon\n§PGo Bravely into Battle§!"
+ voyri: "Vöyrin Marssi\n§PMarch of Vöyri§!"
+ vapaus: "Vapaussoturin Valloituslaulu\n§PFreedom Fighters' Conquering Song§!"
+ muistoja: "Muistoja pohjolasta\n§PMemories From the North§!"
+ elamaa: "Elämää Juoksuhaudoissa\n§PA Life in Trenches§!"
+ pori: "Porilaisten Marssi\n§PMarch of the Pori Regiment§!"
+ veteraani: "Veteraanin Iltahuuto\n§PThe Evening Call of a Veteran§!"
+ suomenmaa: "Oi Kallis Suomenmaa\n§PO Precious Finland§!"
+ kaiho: "Jääkärin Kaiho\n§PJäger's Nostalgia§!"
+ saksan_wilhelmi: "Saksan Keisari Wilhelmi\n§PGerman Emperor Wilhelm§!"
+
+### FRA - Commune of France ###
+ ah_ca_ira: "Ah ! ça ira\n§PAh! It'll be fine§!"
+ paris_pour_un_beefsteak: "Paris pour un Beefsteak\n§PParis for a Beefsteak§!"
+ la_marseillaise_de_la_commune: "La Marseillaise de la Commune\n§PThe Marseillaise of the Commune§!"
+ le_drapeau_rouge: "Le Drapeau Rouge\n§PThe Red Flag§!"
+ le_temps_de_cerises: "Le Temps des Cerises\n§PThe Cherry Season§!"
+ le_capitaine_au_mur: "Le Capitaine: 'au Mur!'\n§PThe Captain: 'To the wall!'§!"
+ internationale_noire: "L'Internationale Noire\n§PThe Black Internationale§!"
+ la_varsovienne: "La Varsovienne\n§PSong of Warsaw§!"
+ appel_du_komintern: "L'Appel de l'Internationale\n§PThe Call of the Internationale§!"
+ quand_fera_t_il_jour_camarade: "Quand fera-t-il jour Camarade?\n§PWhen will it be daytime Comrade?§!"
+ linsurge: "L'Insurgé\n§PThe Insurgent§!"
+ le_sir_de_fisch_ton_kan: "Le Sire de Fisch-Ton-Kan\n§PThe Lord of Fisch-Ton-Kan§!"
+ l_enfant_de_strasbourg: "L'Enfant de Strasbourg\n§PThe Child of Strasbourg§!"
+ le_triomphe_de_lanarchie: "Le Triomphe de L'Anarchie\n§PThe Triumph of Anarchy§!"
+ la_ravachole: "La Ravachole\n§PRavachol§!"
+ le_front_des_travailleurs: "Le Front des Travailleurs\n§PThe Front of the Workers§!"
+
+### GBR - United Kingdom ###
+ tipperary: "It's a Long Way to Tipperary"
+ girl_left_behind: "The Girl I Left Behind Me"
+ high_germany: "High Germany"
+ the_boy_i_love_is_up_in_the_gallery: "The Boy I Love is up in the Gallery"
+ well_meet_again: "We'll Meet Again"
+ sons_of_the_brave: "Sons of the Brave"
+ keep_the_home_fires_burning: "Keep the Home-Fires Burning"
+ song_of_liberty: "Song of Liberty"
+ i_vow_to_thee_my_country: "I Vow to Thee, My Country"
+ colonel_bogey_march: "Colonel Bogey March"
+ god_save_the_king: "God Save the King"
+ heart_of_oak: "Hearts of Oak"
+ land_of_hope_and_glory: "Land of Hope and Glory"
+ rule_britannia: "Rule Britannia"
+ well_never_let_the_old_flag_fall: "We'll Never Let the Old Flag Fall"
+ the_connaught_rangers: "The Connaught Rangers"
+ the_last_time_i_saw_paris: "The Last Time I Saw Paris"
+ eagle_squadron: "Eagle Squadron"
+ british_grenadiers_march: "British Grenadier's March"
+ crown_imperial: "Crown Imperial"
+ the_king_is_still_in_london: "The King is Still in London"
+ soldiers_of_the_king: "Soldiers of the King"
+ fantasia_on_british_sea_songs: "Fantasia on British Sea Songs"
+ here_s_a_health_unto_his_majesty: "Here's A Health unto His Majesty"
+ britain_ask_of_thyself: "Britain, Ask of Thyself"
+ imperial_march: "Imperial March"
+
+### GRE - Greece ###
+ ymnos_is_tin_eleftherian: "Ýmnos is tin Eleftherían\n§PHymn to Freedom§!"
+ returning_from_the_battle: "Gyrnoum' Apo Ti Machi\n§PWe're Returning from the Battle§!"
+ aegean_sailor_march: "O Náftis tou Aigaíou\n§PThe Aegean Sailor March§!"
+ black_is_the_night: "Mávri eínai i nýchta sta vouná\n§PBlack is the Night in the Mountains March§!"
+ greece_never_dies: "I Elláda poté den pethaínei\n§PGreece Never Dies!§!"
+ makedonia_ksakousti: "Makedonia Ksakousti\n§PFamous Macedonia§!"
+ pernaei_o_stratos: "Pernáei o Stratós\n§PThe Army Passes§!"
+ cavalry_march: "Emvatirio Ippiko\n§PCavalry March§!"
+ evzonaki: "Evzone March"
+ our_flag_march: "H Simaia mas\n§POur Flag March§!"
+ pindus_march: "Pindos Emvatírio\n§PPindus March§!"
+ sta_kanonia: "Sta Kanonia\n§PTo the Cannons§!"
+ the_artillery_march: "To Pyrovoliko\n§PThe Artillery March§!"
+ air_force_march: "Aeropóros\n§PGreek Air Force March§!"
+ miltos_paschalidis: "Thoúrios"
+
+### HOL - Netherlands ###
+ wilhelmus: "Wilhelmus\n§PThe William§!"
+ huzarenmars: "Huzarenmars\n§PHussar March§!"
+ lied_van_de_koninklijke_mareschaussee: "Lied van de Koninklijke Mareschaussee\n§PSong of the Royal Military Police§!"
+ aan_mijn_volk: "Aan mijn volk\n§PTo My People§!"
+ merck_toch_hoe_sterck: "Merck toch hoe Sterck\n§PNotice How Strong§!"
+ breng_eens_een_zonnetje: "Breng Eens een Zonnetje\n§POnce a Sun Shone§!"
+ breng_mij_mijn_huis: "Breng Mij Mijn Huis\n§PBring Me My House§!"
+ morgen_gaat_het_beter: "Morgen Gaat het Beter\n§PIt'll Get Better Tomorrow§!"
+ twee_ogen_zo_blauw: "Twee Ogen zo Blauw\n§PTwo Eyes so Blue§!"
+ werkloze_handen: "Werkloze Handen\n§PIdle Hands§!"
+ leidseplein: "Als op het Leidseplein de lichtjes weer eens branden gaan\n§PWhen the lights on Leidseplein light up again§!"
+ zuiderzee: "Zuiderzee\n§PSouthern Sea§!"
+ de_kleine_man: "De Kleine Man\n§PThe Small Man§!"
+ rats_kuch_en_bonen: "Rats, Kuch en Bonen\n§PRats, Cough and Beans§!"
+ mars_van_het_regiment_van_heutz: "Mars van het Regiment van Heutsz\n§PMarch of the Regiment van Heutsz§!"
+ adelborsten_mars: "Adelborsten Mars\n§PMarch of the Midshipmen§!"
+
+### HUN - Hungary ###
+ himnusz: "Himnusz\n§PHungarian Hymn§!"
+ rakoczi_indulo: "Rákóczi-induló\n§PRákóczi March§!"
+ szozat: "Szózat\n§PAppeal§!"
+ honved_banda_szol_a_stefanian: "Honvéd banda szól a Stefánián!\n§PArmy Band Plays at Stefania Street§!"
+ attila_indulo: "Attila Induló\n§PAttila March§!"
+ fehervari_indulo: "Fehervari Induló\n§PFehervar March§!"
+ ungarischer_sturmmarsch: "Ungarischer Sturmmarsch\n§PHungarian Assault March§!"
+ bajtars: "Bajtárs\n§PComrades§!"
+
+### ICE - Iceland ###
+ a_sprengisandi: "Á Sprengisandi\n§POn Sprengisandur§!"
+ fann_eg_a_fjalli: "Fann Ég Á Fjalli\n§PI Found On A Mountain§!"
+ islandsklukkur: "Íslandsklukkur"
+ lofsongur: "Lofsöngur\n§PRhapsody§!"
+ tyrkjaranid: "Tyrkjaránid\n§PTurkish Kidnappings§!"
+
+### IRE - Ireland ###
+ the_foggy_dew: "The Foggy Dew"
+ soldierssong: "Amhrán na bhFiann\n§PThe Soldier's Song§!"
+ god_save_ireland: "God Save Ireland"
+ oro_abhaile: "Oró Sé Do Bheatha 'Bhaile\n§PHooray, Welcome Home!§!"
+ nation_once_again: "A Nation Once Again"
+ rising_moon: "Rising of the Moon"
+ odonnell_abu: "O'Donnell Abú\n§PO'Donnell To Victory§!"
+ a_row_in_the_town: "A Row in the Town"
+ brian_borus_march: "Brian Boru's March"
+ down_by_the_glenside: "Down By The Glenside"
+ kelly_the_boy_from_killane: "Kelly, the Boy From Killane"
+ oneills_march: "Marcshlua Uí Néill\n§PO'Neill's March§!"
+ the_boys_of_wexford: "The Boys of Wexford"
+ the_minstrel_boy: "The Minstrel Boy"
+ labours_call: "Labour's Call"
+ black_velvet_band: "Black Velvet Band"
+ down_by_the_salley_gardens: "Down by the Salley Gardens"
+ roddy_mccorley: "Roddy McCorley"
+ march_of_the_king_of_laois: "The March of the King of Laois"
+ merrily_kissed_the_quaker: "Merrily Kissed the Quaker"
+ osullivans_march: "O'Sullivan's March"
+ planxty_irwin: "Planxty Irwin"
+ rocky_road_to_dublin: "The Rocky Road to Dublin"
+ wildgeese: "Wildgeese"
+
+### ITA - Conservative Italy ###
+ il_canto: "Il canto degli Italiani\n§PThe Song of the Italians§!"
+ fischia_il_sasso: "Fischia il Sasso\n§PThe Stone Whistles§!"
+ vincere: "Vincere\n§PI will Win§!"
+ vivere: "Vivere!\n§PI will Live!§!"
+ italian_polka: "Italian Polka"
+ #Owns Rome
+ inno_a_roma: "Inno a Roma\n§PHymn to Rome§!"
+
+### LAT - Latvia ###
+ krauklits_sez_ozola: "Krauklits Sez Ozola\n§PThe Raven Sits in the Oak Tree§!"
+ riga_dimd: "Riga Dimd\n§PRiga Resounds§!"
+ ak_latvija: "Ak, Latvija\n§POh Latvia§!"
+ dievs_sveti_latviju: "Dievs, svētī Latviju\n§PGod save Latvia§!"
+ latvju_marss: "Latvju Maršs\n§PLatvian March§!"
+ ligo_laiva_uz_udena: "Līgo, Laiva, Uz Ūdeņa\n§PMidsummer Boat on the Water§!"
+ mirdzot_skepiem_zeltsaules_staros: "Mirdzot Šķēpiem Zeltsaules Staros\n§PSpears Shining in the Light of the Sun§!"
+
+### LIT - Lithuania ###
+ partizanu: "Alytė\n§PAlytus§!"
+ kariskas: "Kariškas vaizdelis\n§PMilitary Episode§!"
+ lietuvaite: "Lietuvaitė\n§PLithuanian Maiden§!"
+ plaukia_sau_laivelis: "Maršas Plaukia sau laivelis\n§PThe Boat is Floating March§!"
+ marsas_ramovenai_zengia: "Maršas Ramovėnai Žengia\n§PRamovans Are On Their Way March§!"
+ marsas_kur_bakuze_samanota: "Maršas Kur Bakūžė Samanota\n§PWhere the Eggplant is Mossed March§!"
+ marsas_nedelios_ryteli: "Maršas Nedėlios Rytelį"
+ marsas_gaudzia_trimitai: "Maršas Gaudžia Trimitai\n§PCatching Trumpets March§!"
+ ei_pasauli: "Maršas Ei, Pasauli!\n§PHey, World! March§!"
+ ei_tu_mergyte: "Ei Tu, Mergyte\n§PHey, Girl§!"
+ maryte_melynake: "Maryte Melynake\n§PMarie Blue Eyes§!"
+ palangos_juroj: "Palangos Jūroj\n§PPalanga Sea§!"
+ paskutini_sekmadieni: "Paskutini Sekmadieni\n§PLast Sunday§!"
+
+### NFA - French Republic ###
+ sambre_et_meuse: "Sambre et Meuse\n§PThe Sambre and Meuse§!"
+ la_marseillaise: "La Marseillaise\n§PThe Marseillaise§!"
+ le_boudin: "Le Boudin\n§PThe Blood Sausage§!"
+ lorraine_march: "La Marche Lorraine\n§PLorraine March§!"
+ les_africains: "Les Africains\n§PThe Africans§!"
+ douce_france: "Douce France\n§PSweet France§!"
+ alsace_et_lorraine: "Alsace et Lorraine\n§PAlsace and Lorraine§!"
+ bonjour_mon_vieux_paris: "Bonjour mon Vieux Paris\n§PHello my Old Paris§!"
+ on_ne_passe_pas: "On ne Passe pas\n§PThey Shall not Pass§!"
+ ca_ira_mieux_demain: "Ça Ira Mieux Demain\n§PIt'll be Better Tomorrow§!"
+ ce_que_c_est_qu_un_drapeau: "Ce que c'est qu'un Drapeau\n§PWhat a Flag is§!"
+ cocorico_l_aigle_et_le_coq: "Cocorico! (L'Aigle et le Coq)\n§PThe Eagle and the Rooster§!"
+ debout_la_france: "Debout la France\n§PStand up France§!"
+ hymne_de_l_infanterie_de_marine: "Hymne de L'Infanterie de Marine\n§PHymn of the Marine Infantry§!"
+ ils_ne_la_gagneront_pas: "Ils ne la Gagneront pas\n§PThey Will not Win it§!"
+ ils_reviendront: "Ils Reviendront\n§PThey Will Come Back§!"
+ la_france_de_demain: "La France de demain\n§PThe France of Tomorrow§!"
+ la_galette: "La Galette\n§PThe Wafer§!"
+ la_royale: "La Royale\n§PThe Royal§!"
+ le_chant_des_girondins: "Le Chant des Girondins\n§PThe Chant of the Girondins§!"
+ le_cuirassier: "Le Cuirassier\n§PThe Cuirassier§!"
+ le_reve_passe: "Le Rêve Passe\n§PThe Dream Passes§!"
+ marche_des_tirailleurs: "Marche des Tirailleurs\n§PMarch of the Skirmishers§!"
+ nous_autres_de_la_chasse: "Nous Autres de la Chasse\n§PWe Fighter Pilots§!"
+ le_renouveau: "Le Renouveau\n§PThe Renewal§!"
+ rhin_et_danube: "Rhin et Danube\n§PRhine and Danube§!"
+ semons_le_grain_de_la_lumiere: "Semons le Grain de la Lumière\n§PLet's Sow the Seed of Light§!"
+ partant_pour_la_syrie: "Partant pour la Syrie\n§PLeaving for Syria§!"
+ chant_du_depart: "Le Chant du Départ\n§PThe Song of Farewell§!"
+ la_madelon_de_la_victoire: "Quand Madelon\n§PMadelon§!"
+
+### NIR - Northern Ireland ###
+ auld_orange_flute: "The Auld Orange Flute"
+ the_sash_my_father_wore: "The Sash My Father Wore"
+ let_erin_remember: "Let Erin Remember"
+ lilliburlero: "Lilliburlero"
+ the_boyne_water: "The Boyne Water"
+ fare_ye_well_inniskilling: "Fare Ye Well, Inniskilling"
+ killaloe_march: "Killaloe March"
+
+### NOR - Norway ###
+ ballad_of_revolt: "Kjempeviseslåtten\n§PThe Ballad of Revolt§!"
+ morning_mood: "Morgenstemning\n§PMorning Mood§!"
+ mountain_king: "I Dovregubbens Hall\n§PIn the Hall of the Mountain King§!"
+ nor_rangers_march: "Gammel Jegermarsj\n§POld Rangers March§!"
+ sommerkveldens: "Sommerkveldens Melodi\n§PSummer Evening Melody§!"
+ sonner: "Sønner Av Norge\n§PSons of Norway§!"
+ valdresmarsjen: "Valdresmarsjen\n§PValdres March§!"
+ holmenkollmarsj: "Holmenkollmarsj\n§PHolmenkoll March§!"
+ norge_mitt_norge: "Norge Mitt Norge\n§PNorway, My Norway§!"
+ gud_signe_vart_dyre_fedreland: "Gud Signe Vårt Dyre Fedreland\n§PGod Bless Our Dear Fatherland§!"
+ #Authoritarian
+ nor_bridal_march: "Bruremarsj Med Slåttetromme\n§PBridal March With Drums§!"
+ #Conservative
+ kong_haakons: "Kong Haakons Honnørmarsj\n§PKing Haakon's March§!"
+ kronprins_olavs_honnoermarsj: "Kronprins Olavs Honnørmarsj\n§PCrown Prince Olaf's Honour March§!"
+ #Syndie
+ liberty_outpost: "Frihetens Forpost\n§POutpost of Freedom§!"
+ rebuild_norway: "Vi Skal Gjenreise Norge\n§PWe Shall Rebuild Norway§!"
+ voice_of_revolution: "Revolusjonens Røst\n§PVoice of the Revolution§!"
+ frem_kamerater: "Frem Kamerater\n§PForward Comrades§!"
+
+### PAP - Papal States ###
+ gran_marcia_trionfale: "Gran Marcia Trionfale\n§PGreat Triumphal March§!"
+ inno_e_marcia_pontificale: "Inno e Marcia Pontificale\n§PPontifical Anthem and March§!"
+
+### POL - Poland ###
+ 1831_warszawianka: "1831 Warszawianka"
+ rota: "Rota\n§PThe Oath§!"
+ szara_piechota: "Szara Piechota\n§PThe Gray Infantry§!"
+ wojenko_wojenko: "Wojenko Wojenko\n§PThe Little War§!"
+ przybyli_ulani_pod_okienko: "Przybyli ułani pod okienko\n§PUhlans came by the window§!"
+ moj_rozmarynie: "O mój rozmarynie...\n§POh my Rosemary...§!"
+ my_pierwsza_brygada: "My Pierwsza Brygada\n§PWe The First Brigade§!"
+ braver_man_than_a_soldier: "Nie masz nad żołnierza dzielniejszego człeka\n§PYou dont have a braver man than a soldier§!"
+ list_do_cara: "List do Cara\n§PLetter to the Tsar§!"
+ song_about_belin: "Piosenka O Belinie\n§PSong about Belin§!"
+ uwertura_koncertowa: "Uwertura Koncertowa\n§PIgnacy Dobrzyński's Concert Overture§!"
+ camp_march: "Marsz Obozowy\n§PCamp March§!"
+ ciezkie_czasy_legionera: "Ciężkie Czasy Legionera\n§PHard times of the Legionnaire§!"
+ marsz_triumfalny_jana_iii_sobieskiego: "Marsz Triumfalny Jana III Sobieskiego\n§PTriumphal March of John III Sobieski§!"
+ marsz_marsz_polonia: "Marsz, Marsz Polonia\n§PMarch, March Polonia§!"
+ rozkwitaly_peki_bialych_roz: "Rozkwitały Pąki Białych Róż\n§PThe White Roses Buds Were Blossoming§!"
+ hej_strzelcy_wraz: "Hej, Strzelcy Wraz!\n§PHey Riflemen, Let's Go!§!"
+ przasniczka: "Prząśniczka\n§PThe Spinner§!"
+ serce_w_plecaku: "Serce w Plecaku\n§PThe Heart in a Backpack§!"
+
+### POR - Portugal ###
+ a_portuguesa: "A Portuguesa\n§PThe Portuguese§!"
+ fado_da_traicao: "Fado da Traição\n§PFado of Betrayal§!"
+ fado_das_trincheiras: "Fado das Trincheiras\n§PFado of the Trenches§!"
+ o_embucado: "O Embuçado\n§PThe Cloaked One§!"
+ nao_cortes_o_teu_cabelo: "Não Cortes o Teu Cabelo\n§PDon't Cut Your Hair§!"
+ hino_da_carta: "Hino da Carta\n§PAnthem of the Charter§!"
+ hino_da_restauracao: "Hino da Restauração\n§PAnthem of the Restoration§!"
+ hino_da_mocidade_portuguesa: "Hino da Mocidade Portuguesa\n§PAnthem of the Portuguese Youth§!"
+ perseguicao: "Perseguição\n§PPersecution§!"
+ carta_das_trincheiras: "Carta das Trincheiras\n§PLetter from the Trenches§!"
+ casinha_da_colina: "Casinha da Colina\n§PHouse on the Hill§!"
+ fado_das_iscas: "Fado das Iscas\n§PFado of the Nibblings§!"
+ fado_menor: "Fado Menor\n§PLesser Fado§!"
+ cancoes_alentejanas: "Canções Alentejanas\n§PSongs from the Alentejo§!"
+
+### ROM - Romania ###
+ armata: "Armata Romana\n§PThe Romanian Army§!"
+ desteapta: "Desteaptă-te, române\n§PAwaken, Romania§!"
+ iui_iancu: "Marsul lui Iancu\n§PMarch of Iancu§!"
+ mihai: "Cea din urma noapte a lui Mihai cel Mare\n§PThe Last Night of Michael the Great§!"
+ sfanta: "Sfânta Tinerete Legionară\n§PAnthem of The Romanian Iron Guard§!"
+ stefan: "Cantecul lui Stefan cel Mare\n§PSong of Stephen the Great§!"
+ cantecu_camasilor_verzi: "Cantecu camasilor verzi\n§PGreenshirt Chant§!"
+ vrei_sa_ne_ntalnim_sambata_seara: "Vrei sa ne-ntalnim sambata seara\n§PWant To Meet Up On Saturday Night?§!"
+ du_ma_acasa_mai_tramvai: "Du ma acasa mai Tramvai\n§PTake Me Home, Oh Tramway§!"
+ treceti_batalioane_romane_carpatii: "Treceti, batalioane romane, Carpatii\n§PCross the Carpathians, Romanian Battalions§!"
+ lelita_saftita: "Lelita Saftita"
+ aprinde_o_tigara: "Aprinde o tigara\n§PLight a Cigarette§!"
+ cararue_du_ma_iar: "Cărărue, du-mă iar\n§PCarriage, Take me Again§!"
+ imnul_regal: "Imnul Regal\n§PRoyal Hymn§!"
+
+### RUS - Russia ###
+ tchaikovsky_marche_slave: "Tchaikovsky: Marche slave, Op. 31 \n'Slavonic March'"
+ tchaikovsky_1812_overture: "Tchaikovsky: 1812 Overture, Op. 49"
+ glazunov_stenka_razin: "Glazunov: Stenka Razin, Op. 13"
+
+ vsyo_chto_bylo: "Vsyo chto bylo\n§PEverything That Was§!"
+ anikusha: "Anikusha"
+ sinyaya_rapsodiya: "Sinyaya rapsodiya\n§PBlue Rhapsody§!"
+ chyornye_glaza: "Chyornye glaza\n§PBlack Eyes§!"
+ kavkaz: "Kavkaz\n§PCaucasus§!"
+ moyo_posledneye_tango: "Moyo posledneye tango\n§PMy Last Tango§!"
+ sluchaynyy_vals: "Sluchaynyy val's\n§PAccidental Waltz§!"
+ druzhba: "Druzhba\n§PFriendship§!"
+ pesnya_voyennykh_korrespondentov: "Pesnya voyennykh korrespondentov\n§PSong of the War Correspondents§!"
+ davno_my_doma_ne_byli: "Davno my doma ne byli\n§PWe Have Not Been Home for a Long Time§!"
+ varyag: "Varyag"
+ okrasilsya_mesyats_bagryantsem: "Okrasilsya mesyats bagryantsem\n§PThe Moon Turned Crimson§!"
+ korobeyniki: "Korobeyniki"
+ kalinka: "Kalinka"
+ solovey_solovey_ptashechka: "Solovey, solovey, ptashechka\n§PNightingale, Nightingale, Little Bird§!"
+
+ dance_of_the_knights: "Dance of the Knights"
+ dance_of_the_swans: "Dance of the Swans"
+ swan_lake_waltz: "Swan Lake Waltz"
+ waltz_of_the_flowers: "Waltz of the Flowers"
+ amur_waves: "Amurskiye volny\n§PAmur Waves§!"
+ on_the_hills_of_manchuria: "Na sopkakh Man'chzhurii\n§POn the Hills of Manchuria§!"
+ farewell_of_slavianka: "Proshchaniye slavyanki\n§PFarewell of Slavianka§!"
+ borodino_march: "Borodinsky Marsh\n§PBorodino March§!"
+ anthem_of_free_russia: "Gimn svobodnoy Rossii\n§PAnthem of Free Russia§!"
+ soldiers_brave_guys: "Soldatushki, bravo rebyatushki\n§PSoldiers, Brave Guys§!"
+ patrioticheskaya_pesnya: "Patrioticheskaya Pesnya\n§PPatriotic Song§!"
+ rus_katyusha: "Katyusha"
+ dark_is_the_night: "Temnaya Noch\n§PDark is the Night§!"
+ tri_tankista: "Tri Tankista\n§PThree Tankmen§!"
+ kazachya_pesnya: "Kazachya Pesnya\n§PCossack’s Song§!"
+ po_dikim_stepyam_zabaikalya: "Po Dikim Stepyam Zabaikalya\n§POn the Wild Steppes of Transbaikalia§!"
+ kol_slaven_nash_gospod_v_sione: "Kol slaven nash Gospod v Sione\n§PHow Glorious is Our Lord in Zion§!"
+ two_brothers_were_going_there: "Tam Shli Dva Brata\n§PTwo Brothers Were Going There§!"
+ talyanochka: "Talyanochka"
+ god_save_the_tsar: "Bozhe, Tsarya khrani!\n§PGod Save the Tsar!§!"
+ march_of_the_siberian_riflemen: "Marsh sibirskikh strelkov\n§PMarch of the Siberian Riflemen§!"
+ march_of_preobrazhensk_regiment: "Marsh Preobrazhenskogo Polka\n§PMarch of Preobrazhensk Regiment§!"
+ slavsya: "Slavsya!\n§PGlory to!§!"
+ ah_nastassia: "Ah, Nastassia\n§PAh, Anastasia§!"
+ # Socialist
+ there_march_the_soldiers: "Shli soldaty\n§PThere March the Soldiers§!"
+ white_army_black_baron: "Belaya Armiya, Chyorny Baron\n§PWhite Army, Black Baron§!"
+ varshavianka: "Varshavianka\n§PWarsaw Song§!"
+ workers_marseillaise: "Rabochaya Marselyeza\n§PThe Worker's Marseillaise§!"
+ you_fell_victim: "Vy zhertvoyu pali\n§PYou Fell Victim§!"
+ through_valleys_and_over_hills: "Po dolinam i po vzgoryam\n§PThrough Valleys and Over Hills§!"
+ kazaki_kazachenki: "Kazaki-Kazachenki\n§PCossacks§!"
+ pesnya_cavaleriyskogo_patrulya: "Pesnya Cavaleriyskogo Patrulya\n§PSong of Cavalry Patrol§!"
+ song_of_the_commune: "Pesnya Kommuny\n§PSong of the Commune§!"
+
+### SCO - Scotland ###
+ john_maclean_march: "John MacLean March"
+ highland_laddie: "Highland Laddie"
+ blue_bonnets_over_the_border: "Blue Bonnets Over the Border"
+ scotland_the_brave: "Scotland the Brave"
+ twa_recruiting_sergeants: "Twa Recruiting Sergeants\n§PTwo Recruiting Sergeants§!"
+
+### SER - Serbia ###
+ march_to_river_drina: "Marš na Drinu!\n§PMarch to the River Drina!§!"
+ serbian_national_anthem: "Bože Pravde\n§PGod of Justice§!"
+ tamo_daleko: "Tamo Daleko\n§PFar Away§!"
+ oj_srbijo_mila_mati: "Oj Srbijo, mila mati\n§PO Serbia, Dear Mother§!"
+ spremte_se_spremte_cetnici: "Spremte se, Spremte Četnici\n§PGet ready, Save the Chetniks§!"
+ king_peter_the_guardian_march: "Kralj Petar marš čuvar\n§PKing Peter the Guardian March§!"
+ nizamski_rastanak: "Nizamski Rastanak\n§PNizam's Departure§!"
+
+### SIC - Sicily ###
+ marcia_dei_reggimenti_svizzeri_dellesercito: "Marcia dei Reggimenti Svizzeri Dell'esercito\n§PMarch of the Swiss Regiments§!"
+ viva_fernando_il_re: "Viva Fernando Il Re\n§PLong Live King Fernando§!"
+ marcia_proveniente_da_napoli: "Marcia Proveniente da Napoli\n§PNeapolitan March§!"
+ lassemblea: "L'Assemblea\n§PThe Assembly§!"
+ la_ritirata: "La Ritirata\n§PThe Retreat§!"
+ tarantella_napoletana: "Tarantella Napoletana\n§PNeapolitan Tarantella§!"
+ tarantella_siciliana: "Tarantella Siciliana\n§PSicilian Tarantella§!"
+ funiculi: "Funículí"
+
+### SPA (SPK) - Kingdom of Spain ###
+ concierto: "Concierto de Aranjuez\n§PConcerto of Aranjuez§!"
+ marcha_real: "La Marcha Real\n§PRoyal March§!"
+ santiago_de_murcia: "Santiago de Murcia"
+ capricho_arabe: "Capricho Árabe\n§PArab Caprice§!"
+ xacaras: "Xácaras"
+ viva_el_ejercito_espanol: "¡Viva el Ejército Español!\n§PLong Live the Spanish Army!§!"
+ san_marcial: "Marcha de San Marcial\n§PMarch of Saint Martial§!"
+ los_voluntarios: "Marcha de Los Voluntarios\n§PMarch of the Volunteers§!"
+ himno_de_regulares: "Himno de Regulares\n§PAnthem of the Regulares§!"
+ himno_de_la_armada_espanola: "Himno de la Armada Española\n§PAnthem of the Spanish Navy§!"
+ himno_de_infanteria: "Himno de la Infantería\n§PAnthem of the Infantry§!"
+ frente_al_cabo_de_palos: "Frente al Cabo de Palos\n§PIn front of Cape Palos§!"
+ marcha_de_cadiz: "Marcha de Cadiz\n§PCadiz March§!"
+ tercios_heroicos: "Tercios Heroicos\n§PHeroic Tercios§!"
+ paquito_el_chocolatero: "Paquito El Chocolatero\n§PPaquito the Chocolatier§!"
+
+### SPR - Carlist Spain ###
+ calzame_las_alpargatas: "Calzame las Alpargatas\n§PPut on my Espadrilles§!"
+ marcha_de_oriamendi: "Marcha de Oriamendi\n§POriamendi March§!"
+ el_pendon_morado: "El Pendón Morado\n§PThe Purple Banner§!"
+
+### SRD - Sardinia ###
+ marcia_reale_dordinanza: "Marcia Reale d'Ordinanza\n§PRoyal Ordinance March§!"
+ marcia_principessa_giovanna_di_savoia: "Marcia Principessa Giovanna di Savoia\n§PPrincess Giovanna of Savoy March§!"
+ duru_duru: "Duru Duru"
+
+### SRI - Socialist Italy ###
+ bandiera_rossa: "Bandiera Rossa\n§PThe Red Flag§!"
+ sri_bella_ciao: "Bella Ciao\n§PFarewell, Beauty§!"
+ inno_dei_lavoratori: "Inno dei Lavoratori\n§PSong of the Workers§!"
+ la_lega: "La Lega\n§PThe Union§!"
+
+### SWE - Sweden ###
+ jag_har: "Jag har bott vid en landsväg\n§PI Have Lived by a Country Road§!"
+ min_soldat: "Min Soldat\n§PMy Soldier§!"
+ kalle: "Kalle på spången\n§PKalle at the Footbridge§!"
+ den_vackraste: "Den vackraste visan om kärleken\n§PThe Most Beautiful Visage of Love§!"
+ sverige_for_folket: "Sverige for folket\n§PSweden For the People§!"
+ kungssangen: "Kungssangen\n§PThe King's Song§!"
+ marcia_carolus_rex: "Marcia Carolus Rex\n§PKing Karl March§!"
+ sommarsang: "Sommarsång\n§PSummer Song§!"
+ kyss_mej_godnatt_sergeant: "Kyss mej godnatt, sergeant\n§PKiss Me Goodnight, Sergeant§!"
+ pa_vilken: "På vilken sida står du\n§PWhich Side are You On§!"
+ under_blagul_fana: "Under Blågul Fana\n§PUnder the Blue Flag§!"
+ vart: "Vårt Framtidsland\n§PFuture Country§!"
+ ack_varmeland_du_skona: "Ack Värmeland du sköna\n§PBeautiful Värmeland§!"
+ we_are_going_forward: "Vi går Fram, Fram, Fram!\n§PWe are Going Forward, Forward!§!"
+ march_of_obligations: "Obligationsmarschen\n§PThe March of Obligations§!"
+ swe_youth_march: "Ungdomsmarsch\n§PYouth March§!"
+ the_day_is_corrupted: "Om dagen är fördärvad\n§PIf The Day is Ruined§!"
+
+### SWF - CNT-FAI ###
+ ay_carmela: "Ay Carmela"
+ la_paloma_de_la_paz: "La Paloma de la Paz\n§PThe Bird of Peace§!"
+ en_la_plaza_de_mi_pueblo: "En la Plaza de Mi Pueblo\n§PIn My Town's Square§!"
+ el_quinto_regimiento: "El Quinto Regimiento\n§PThe Fifth Regiment§!"
+ a_las_barricadas: "A las barricadas\n§POnto the barricades§!"
+ hijos_del_pueblo: "Hijos del Pueblo\n§PSons of the People§!"
+ si_me_quieres_escribir: "Si me Quieres Escribir\n§PIf you want to write to me§!"
+
+### SWI - Switzerland ###
+ wettsteinmarsch_und_vaterlandshymne: "Wettsteinmarsch und Vaterlandshymne\n§PWettstein March and Fatherland's Hymn§!"
+ infanterie_marsch: "Marsch des Zürcher Infanterie Regiment Nº27\n§PMarch of the Zürich Infantry Regiment Nº27§!"
+ zurich_march: "Zürich Marsch\n§PMarch of Zürich§!"
+ das_liebe_alte_bern: "Das liebe alte Bern\n§POld Beloved Bern§!"
+ marsch_der_grenadiere: "Marsch der Grenadiere\n§PMarch of the Grenadiers§!"
+ mit_wehenden_fahnen: "Mit wehenden Fahnen\n§PWith Flying Colours§!"
+ roulez_tambours: "Roulez Tambours\n§PRoll the Drums§!"
+ schuetzenmarsch: "Schützenmarsch\n§PRifle March§!"
+
+### UKR - Ukraine ###
+ anarchia: "Anarkhiya-mama synov svoikh lyubit\n§PMother Anarchy Loves her Sons§!"
+ zaporizkyi_kozatskyi_marsh: "Zaporizkyi Kozatskyi Marsh\n§PZaphorozhian Cossack March§!"
+ hei_stepamy: "Hei, Stepamy\n§PHey, Steppes§!"
+ nalyvaite_brattia_kryshtalevi_chashi: "Nalyvaite, Brattia, Kryshtalevi Chashi\n§PPour, Brothers, Crystal Bowls§!"
+ taras_bulba: "Taras Bulba Overture"
+ ukraine_is_not_yet_lost: "Ukraine is Not Yet Lost"
+ oh_the_red_viburnum_in_the_meadow: "Oh, the Red Viburnum in the Meadow"
+ prayer_for_ukraine: "Prayer for Ukraine"
+ we_were_born_in_a_great_hour: "We Were Born in a Great Hour"
+ there's_a_willow_in_the_field: "There's a Willow in the Field"
+ oy_na_hori_ta_y_zhentsi_zhnut: "Oh, On the Mountain the Reapers are Harvesting"
+ cossacks_were_riding: "Cossacks Were Riding"
+ long_live_free_ukraine: "Long Live, Free Ukraine"
+ oh_grow_you_dry_oak: "Oh, Grow You Dry Oak"
+ black_clouds_cover_over_the_ruins: "Black Clouds Cover Over the Ruins"
+ ked_my_pryishla_karta: "Ked my pryishla karta\n§PWhen I Received my Draft Notice§!"
+ oh_you_can_see_the_village: "Oi, vydno selo\n§POh, You Can See the Village§!"
+ vichnyi_revoliutsioner: "Vichnyi Revoliutsioner\n§PEternal Revolutionary§!"
+ yshly_selom_partyzany: "Yshly selom partyzany\n§PPartisans Walked Through the Village§!"
+ yikhav_kozak_za_dunai: "Yikhav Kozak za Dunai\n§PThe Cossack Rode beyond the Danube§!"
+
+### VNC - Venice ###
+ salve_invicta_juditha_formosa: "Salve Invicta Juditha Formosa\n§PHail Judith the invincible§!"
+
+### WLS - Wales ###
+ men_of_harlech: "Rhyfelgyrch Gwŷr Harlech\n§PMen of Harlech§!"
+
+####    A M E R I C A    ####
+
+### APG - American People's Government ###
+ every_man_a_king: "Every Man a King"
+ american_salute: "American Salute\n§PJohnny Comes Marching Home Medley§!"
+ bravura_march: "Bravura March"
+ columbia_the_gem_of_the_ocean: "Columbia, the Gem of the Ocean"
+ front_section_march: "Front Section! March"
+ nobles_of_the_mystic_shrine: "Nobles of the Mystic Shrine"
+ the_purple_carnival: "The Purple Carnival"
+ sound_off: "Sound Off"
+ the_trombone_king: "The Trombone King"
+ the_yellow_rose_of_texas: "The Yellow Rose of Texas"
+ joyces_71st_new_york_regiment_march: "Joyce's 71st New York Regiment March"
+
+### ARG - Argentina ###
+ mi_noche_triste: "Mi noche triste\n§PMy Sad Night§!"
+ avenidas_de_las_camelias: "Avenidas de las Camelias\n§PStreets of Camellias§!"
+ la_marcha_peronista: "La Marcha Peronista\n§PThe Peronist March§!"
+ la_marcha_de_san_lorenzo: "La Marcha de San Lorenzo\n§PSaint Lawrence March§!"
+ la_marcha_de_la_defensa_de_buenos_aires: "La Defensa de Buenos Aires\n§PBuenos Aires's Defense March§!"
+ aurora: "Aurora"
+ ituzaingo: "Ituzaingó\n§PArgentinean Presidential March§!"
+ capibary: "Marcha de Capibary\n§PCapibary March§!"
+ bahia_blanca: "Marcha de Bahia Blanca\n§PBahia Blanca March§!"
+ punta_congreso: "Marcha de la Punta Congreso\n§PPunta Congreso March§!"
+ alberto_william_primera_obertura: "Primera Obertura de Concierto de Alberto Williams\n§PAlberto Williams' First Concert Overture§!"
+
+### BOL - Bolivia ###
+ bolivhimno_nacional: "Himno Nacional de Bolivia\n§PNational Hymn of Bolivia§!"
+ tricolor: "Himno a Tricolor de Bolivia\n§PHymn to the Tricolor of Bolivia§!"
+ destacamento_111: "Destacamento 111\n§PDetachment 111§!"
+ infierno_verde: "Infierno Verde\n§PGreen Hell§!"
+
+### BRA - Brazil ###
+ #General
+ a_lua_veio_ver: "A Lua Veio Ver\n§PThe Moon Came to See§!"
+ o_que_sera_de_mim: "O Que Será de Mim?\n§POh What Will Be of Me?§!"
+ o_urubu_e_o_gaviao: "O Urubu E O Gavião\n§PThe Vulture and the Hawk§!"
+ atraente: "Atraente\n§PAttractive§!"
+ brahino_nacional: "Hino Nacional Brasileiro\n§PBrazilian National Hymn§!"
+ cancao_do_exercito: "Cançáo do Exército Brasileiro\n§PBrazilian Army Chant§!"
+ de_pe: "De pé, Brasil!\n§POn your feet, Brazil!§!"
+ quatro_tenentes: "Quatro Tenentes\n§PFour Lieutenants§!"
+ himno_constitucionalista: "Hino do Partido Constitucionalista\n§PHymn of the Constitutionalist Party§!"
+ sentinela_do_brazil: "Sentinela do Brasil\n§PSentinel of Brazil§!"
+ o_corta_jaca: "O Corta Jaca!\n§PCut the Jackfruit§!"
+ brasil_brasileiro: "Brasil Brasileiro\n§PBrazil, Brazilian§!"
+ quanta_tristeza: "Quanta Tristeza\n§PHow Much Grief§!"
+ #Republican
+ hino_da_proclamacao_da_republica: "Hino da Proclamação da República\n§PHymn of the Proclamation of the Republic§!"
+ #Monarchist
+ hino_da_independencia: "Hino da Independência\n§PHymn of Independence§!"
+ avante: "Avante!\n§PForward!§!"
+
+### CAN - Canada ###
+ o_canada: "O Canada"
+ vive_la_canadienne: "Vive la Canadienne\n§PLong Live the Canadian§!"
+ the_banks_of_newfoundland: "The Banks of Newfoundland"
+ royal_canadian_airforce_march: "Royal Canadian Airforce March"
+ farewell_to_nova_scotia: "Farewell to Nova Scotia"
+ the_maple_leaf_forever: "The Maple Leaf Forever"
+
+### CHL - Chile ###
+ chlhimno_nacional: "Himno Nacional de Chile\n§PNational Hymn of Chile§!"
+ penachos_rojos: "Penachos Rojos\n§PRed Plumes§!"
+ himno_de_carabineros: "Himno de Carabineros\n§PCarabineer's March§!"
+ yo_tenia_un_camarada: "Yo Tenia un Camarada\n§PI had a Comrade§!"
+ adios_al_septimo_de_linea: "Adios al Septimo de Linea\n§PFarewell to the seventh of line§!"
+ chl_lili_marlene: "Lili Marlene\n§PChilean Army Version§!"
+
+### COL - Colombia ###
+ colhimno_nacional: "Himno Nacional de Colombia\n§PNational Hymn of Colombia§!"
+ huri: "Huri"
+ hacia_el_calvario: "Hacia el Calvario\n§PTowards the Calvary§!"
+ el_pilon: "El Pilon"
+
+### COS - Costa Rica ###
+ patriotica_costarricense: "Patriotica Costarricense\n§PCosta Rican Patriotic§!"
+ duelo_a_la_patria: "Duelo a la Patria\n§PDuel to the Homeland§!"
+ oh_costa_rica: "Oh! Costa Rica!"
+ saludo_a_la_bandera: "Saludo a la Bandera\n§PSalute to the Flag§!"
+ inspiraciones_costarricenses: "Inspiraciones Costarricenses\n§PCosta Rican Inspirations§!"
+ himno_costa_rica: "Himno Nacional Costarricense\n§PCosta Rican National Anthem§!"
+ himno_15_de_septiembre: "Himno del 15 de Septiembre\n§PHymn to the 15 of September§!"
+
+### CUB - Cuba ###
+ el_manisero: "El Manisero\n§PThe Peanut Vendor§!"
+ la_bayamesa: "La Bayamesa\n§PThe Bayamo Song§!"
+ guantanamera: "Guantanamera\n§PGuantanamo Song§!"
+ el_mambi: "El Mambi"
+ himno_invasor: "Himno Invasor\n§PHymn of the Invader§!"
+ la_bella_cubana: "La Bella Cubana\n§PThe Cuban Beauty§!"
+ papa_montero: "Papa Montero"
+ cubanacan: "Cubanacan"
+ mosaico_cubano: "Mosaico Cubano\n§PCuban Mosaic§!"
+ la_rebambaramba: "La Rebambaramba"
+ la_negra_quirina: "La Negra Quirina\n§PThe Black Quirina§!"
+ cuban_overture: "Cuban Overture"
+
+### DOM - Dominican Republic ###
+ himno_armada: "Himno Armada\n§PNavy Hymn§!"
+ quisqueyanos_valientes: "Quisqueyanos Valientes\n§PValiant Quisqueyans§!"
+ el_carabine: "El Carabiné"
+ el_jarro_pichao: "El Jarro Pichao\n§PThe Punctured Jar§!"
+ seguire_a_caballo: "Seguire a Caballo\n§PI'll Keep Horse-riding§!"
+ compadre_pedro_juan: "Compadre Pedro Juan\n§PGodfather Pedro Juan§!"
+ tu_no_podras_olvidar: "Tu no Podras Olvidar\n§PYou won't be able to Forget§!"
+ sarambo: "Sarambo"
+ luna_sobre_el_jaragua: "Luna Sobre el Jaragua\n§PMoon over the Jaragua§!"
+ perfidia: "Perfidia\n§PPerfidy§!"
+
+### ECU - Ecuador ###
+ salve_oh_patria: "¡Salve, Oh Patria!\n§PSalute, Homeland!§!"
+ guayaquileno: "Guayaquileño, Madera de Guerrero\n§PGuayaquilean, Warrior Wood§!"
+ beatriz: "Beatriz"
+ indiecito_otavaleno: "Indiecito Otavaleño\n§PLittle Otavalenian Indian§!"
+ la_del_estribo: "La del Estribo\n§PThe one of the Stirrups§!"
+
+### ELS - El Salvador ###
+ himno_al_soldado_salvadoreno: "Himno al Soldado Salvadoreño\n§PHymn for the Salvadorian Soldiers§!"
+ marcha_de_gerardo_barrios: "Marcha de Gerardo Barrios\n§PGerardo Barrios's March§!"
+ adentro_cojutepeque: "Adentro Cojutepeque!\n§PInside Cojutepeque!§!"
+ el_torito_pinto: "El Torito Pinto"
+ himno_salvadoreno: "Himno Nacional Salvadoreño\n§PSalvadorean National Anthem§!"
+
+### FOP - Patagonia ###
+ milonga_social_de_payador_libertario: "Milonga Social de Payador Libertario"
+ guitarra_roja: "Guitarra Roja\n§PRed Guitar§!"
+ guerra_a_la_burguesia: "Guerra a la Burguesía\n§PWar on the Bourgeoisie§!"
+ pan: "Pan\n§PBread§!"
+ mala_junta: "Mala Junta\n§PPoor Company§!"
+ milonga_del_900: "Milonga del 900"
+ anoche: "Anoche\n§PLast Night§!"
+ la_revancha: "La Revancha\n§PThe Rematch§!"
+
+### GUA - Guatemala ###
+ amor_patrio: "Amor Patrio"
+ compania_de_cadetes: "Compañia de Cadetes\n§PCadet Company March§!"
+ el_caballero_cadete_6_40: "El Caballero Cadete 6-40\n§P6-40 Cadet Knight March§!"
+ el_numero_cinco: "El Numero Cinco\n§PNumber Five March§!"
+ la_democracia: "La Democracia\n§PDemocracy March§!"
+ guatemalan_anthem: "Himno Nacional Guatemalteco\n§PGuatemalan National Anthem§!"
+ xelaju: "Xelajú"
+
+### HAI - Haiti ###
+ la_dessalinienne: "La Dessalinienne\n§PThe Dessalines§!"
+ quand_nos_aieux_briserent_leurs_entraves: "Quand nos Aïeux Brisèrent leurs Entraves\n§PWhen Our Fathers Broke Their Chains§!"
+ haiti_cherie: "Haïti Chérie\n§PHaiti Dear§!"
+ angelique_o: "Angélique, O"
+ choucounne: "Choucounne"
+ harvest_song: "Mèsi Bondye\n§PHarvest Song§!"
+ haiti: "Haiti"
+ little_bird: "Ti Zwazo\n§PLittle Bird§!"
+
+### HON - Honduras ###
+ honduran_national_anthem: "Himno Nacional Hondureño\n§PHonduran National Anthem§!"
+
+### MEX - Mexico ###
+ carabina: "Carabina 30-30\n§P30-30 Carbine§!"
+ mexican_national_anthem: "Himno Nacional de Mexico\n§PMexican National Anthem§!"
+ fe_sangre_victoria: "Fe, Sangre, Victoria!\n§PFaith, Blood, Victory!§!"
+ ay_jalisco_no_te_rajes: "Ay Jalisco, No te Rajes\n§PAy Jalisco, Don't Run Away§!"
+ corrido_felipe_angeles: "El Corrido de Felipe Angeles\n§PThe Ballad of Felipe Angeles§!"
+ corrido_heraclio_bernal: "El Corrido de Heraclio Bernal\n§PThe Ballad of Heraclio Bernal§!"
+ corrido_pancho_villa: "El Corrido Villista\n§PThe Villista Ballad§!"
+ jarabe_tapatio: "Jarabe Tapatio"
+ la_adelita: "La Adelita"
+ la_marieta: "La Marieta"
+ la_valentina: "La Valentina"
+ marcha_de_la_fuerza_aerea_mexicana: "Marcha de la Fuerza Aerea Mexicana\n§PMexican Air Force March§!"
+ marcha_ecos_de_mexico: "Marcha Ecos de Mexico\n§PEchoes of Mexico March§!"
+ marcha_zacatecas: "Marcha Zacatecas\n§PZacatecas March§!"
+ yo_soy_mexicano: "Yo soy Mexicano\n§PI am Mexican§!"
+ besame_mucho: "Besame Mucho"
+
+### NEE - New England ###
+ the_green_mountaineer: "The Green Mountaineer"
+ old_cape_cod: "Old Cape Cod"
+ chester: "Chester"
+
+### NIC - Nicaraga ###
+ himno_nicaraguense: "Himno Nacional Nicaraguense\n§PNicaraguan National Anthem§!"
+
+### PAN - Panama ###
+ istmenian_hymn: "Himno Istmeño\n§PIsthmian Hymn§!"
+ the_spirit_of_panama: "El Espiritú de Panama\n§PThe Spirit of Panama§!"
+
+### PAR - Paraguay ###
+ parhimno_nacional: "Himno Nacional Paraguayo\n§PNational Hymn of Paraguay§!"
+ juky: "Juky\n§PPleasant§!"
+ marcha_chaco_boreal: "Marcha Chaco Boreal\n§PBoreal Chaco March§!"
+ mariscal_lopez: "Marcha al Mariscal Lopez\n§PMarch to Marshall Lopez§!"
+ verde_olivo: "Marcha Verde Olivo\n§POlive Green March§!"
+ al_pie_de_tu_reja: "Al Pie de tu Reja\n§PAt the foot of your fence§!"
+
+### PRU - Peru ###
+ pruhimno_nacional: "Himno Nacional del Perú\n§PNational Hymn of Peru§!"
+ el_condor_pasa: "El Cóndor Pasa\n§PThe Condor Passes§!"
+ tacna: "Marcha de Tacna\n§PTacna March§!"
+ marcha_tupac_amaru: "Marcha de Tupac Amaru\n§PTupac Amaru's March§!"
+
+### PUE - Puerto Rico ###
+ preciosa: "Preciosa\n§PPrecious§!"
+ lamento_borincano: "Lamento Borincano\n§PPuerto Rican Mourning§!"
+
+### QUE - Quebec ###
+ men_revenant: "C'est L'aviron\n§PPull On the Oars§!"
+ la_feuilled_erable: "La feuille d'érable\n§PThe Maple Leaf§!"
+
+### URG - Uruguay ###
+ urghimno_nacional: "Himno Nacional de Uruguay\n§PNational Hymn of Uruguay§!"
+ marcha_25_de_agosto: "Marcha 25 de Agosto\n§PMarch of the 25th of August§!"
+ la_cumparsita: "La Cumparsita"
+
+### USA - United States ###
+ from_the_new_world: "From the New World"
+ hail_columbia: "Hail, Columbia!"
+ stars_and_stripes: "Stars and Stripes Forever"
+ battle_cry: "The Battle Cry of Freedom"
+ USA_the_yankee_doodle_blues: "The Yankee Doodle Blues"
+ battle_hymn: "Battle Hymn of the Republic"
+ praise_the_lord_and_pass_the_ammunition: "Praise the Lord and Pass the Ammunition"
+ us_field_artillery_march: "U.S. Field Artillery March"
+ the_marines_hymn: "From the halls of Montezuma March"
+ maryland_march: "Maryland, My Maryland March"
+ marching_through_georgia: "Marching Through Georgia"
+ USA_march_of_the_toys: "March of the Toys"
+ USA_the_liberty_bell: "The Liberty Bell"
+ USA_anchors_aweigh: "Anchors Aweigh"
+ semper_paratus: "Semper Paratus"
+ invincible_eagle: "Invincible Eagle March"
+ hands_across_sea: "Hands Across the Sea March"
+ national_emblem_march: "National Emblem March"
+ I_love_you_california: "I love you, California"
+
+### VEN - Venezuela ###
+ gloria_al_bravo_pueblo: "Gloria al Bravo Pueblo\n§PGlory to the Brave People§!"
+ alma_llanera: "Alma Llanera\n§PSoul From the Plains§!"
+
+### WCA - Workers' Congress of America ###
+ theres_a_better_world_a_comin: "There's a Better World a'Comin'"
+ the_ludlow_masacre: "The Ludlow Massacre"
+ this_land_is_your_land: "This Land is Your Land"
+ the_banks_of_marble: "The Banks of Marble"
+ solidarity_forever: "Solidarity Forever"
+ two_good_men: "Two Good Men"
+ there_is_power_in_a_union: "There is Power in a Union"
+ john_browns_body: "John Brown's Body"
+ which_side_are_you_on: "Which Side are You On?"
+ bread_and_roses: "Bread and Roses"
+ we_fed_you_all_for_a_thousand_years: "We Fed You All for a Thousand Years"
+ joe_hill: "Joe Hill"
+
+### WIF - West Indies Federation ###
+ war_declaration: "War"
+ graf_zeppelin: "Graf Zeppelin"
+ old_lady_old_lady: "Old Lady Old Lady"
+ iron_duke_in_the_land: "Iron Duke in the Land"
+ back_to_my_west_indian_home: "Back to my West Indian Home"
+ swine_lane_gal: "Swine Lane Gal"
+ caroline: "Caroline"
+ sly_mongoose: "Sly Mongoose"
+ african_love_call: "African Love Call"
+ a_si_pare: "A Si Paré"
+ la_grev_bare_mwen: "La Grev Bare Mwen\n§PThe Strike Blocked My Way§!"
+ forged_from_the_love_of_liberty: "Forged From the Love of Liberty"
+
+####       A S I A       ####
+
+### AST - Australasia ###
+ advance_australia: "Advance Australia Fair"
+ along_gundagai: "Along the Road to Gundagai"
+ australia_will_be_there: "Australia Will Be There"
+ blue_smoke: "Blue Smoke"
+ brown_slouch_hat: "A Brown Slouch Hat"
+ by_the_great_big_blue_billabong: "By the Great Big Blue Billabong"
+ colonial_song: "Colonial Song"
+ for_crown_and_country: "For Crown and Country"
+ gallipoli: "Gallipoli"
+ god_defend_new_zealand: "God Defend New Zealand"
+ invercargill_march: "Invercargill March"
+ maori_battalion: "Māori Battalion"
+ maori_battalion_instrumental: "Māori Battalion\n§PInstrumental§!"
+ merry_widow: "Merry Widow"
+ po_atarau: "Pō Atarau\n§PNow is the Time, Farewell§!"
+ remembrance: "Remembrance"
+ royal_australian_navy_march: "Royal Australian Navy March"
+ royal_standard: "Royal Standard"
+ song_of_australia: "Song of Australia"
+ united_australia_commonwealth: "United Australia: Commonwealth March"
+ waltzing_matilda: "Waltzing Matilda"
+
+### CHI - Left KMT ###
+ three_principles_of_the_people: "Three Principles of the People"
+ protect_the_yellow_river: "Baowei Huanghe\n§PProtect the Yellow River§!"
+ dadao_march: "Dadao Jingzingqu\n§PThe Sword March§!"
+ anthem_of_the_whampoa_military_academy: "Anthem of the Whampoa Military Academy"
+ soul_of_whampoa: "Soul of Whampoa"
+ tunnel_warfare: "Didao Zhan\n§PTunnel Warfare§!"
+ flag_anthem: "Flag Anthem"
+ chi_graduation_song: "Bi Ye Ge\n§PGraduation Song§!"
+ chi_song_of_guerrillas: "You Ji Dui Ge\n§PSong of Guerrillas§!"
+ march_of_the_volunteers: "Yiyongjun Jinxingqu\n§PMarch of the Volunteers§!"
+ night_raid: "Yexi\n§PNight Raid§!"
+ indomitable_spirit: "Dingtian Lidi\n§PIndomitable Spirit§!"
+ I_have_a_gun: "Wo You Yi Zhi Qiang\n§PI have a Gun§!"
+ heroic_soldiers: "Yingyong De Zhanshi\n§PHeroic Soldiers§!"
+ to_battle: "Fu Zhan\n§PTo Battle§!"
+
+### FNG - Fengtian ###
+ to_the_auspicious_cloud: "Qing Yun Ge\n§PSong to the Auspicious Cloud§!"
+ the_last_moment_of_sacrifice: "Xisheng Yi Dao Zuihou Guantou\n§PThe Last Moment of Sacrifice§!"
+
+### GEA - German East Asia ###
+ heut_geht_es_an_bord: "Heut Geht es an Bord\n§PToday, it's on board§!"
+ wenn_ich_urlaub_hab: "Wenn Ich Urlaub Hab\n§PWhen I have leave§!"
+
+### HAW - Hawaii ###
+ he_mele_lahui_hawaii: "He Mele Lāhui Hawai'i\n§PThe Song of the Hawaiian Nation§!"
+ haw_namolokama_la: "Namolokama Lā\n§PNamolokama Mountain§!"
+
+### HND - Bharatiya Commune ###
+ qadam_qadam_badhae_ja: "Qadam Qadam barāye jā\n§PKeep stepping forward§!"
+ ekla_cholo_re: "Ekla Cholo Re\n§PGo it alone§!"
+ door_hato_ai_duniya_walo: "Door Hato Ai Duniya Walo\n§PGo Away, O People of the World§!"
+
+### INS - Indonesia ###
+ ajoen_ajoen: "Ajoen Ajoen\n§PSwinging In The High Coconut Tree§!"
+ ayo_mama: "Ayo Mama\n§PCome On, Mom§!"
+ indonesia_raya: "Indonesia Raya\n§PIndonesian National Anthem§!"
+ kampuang_nan_jauh_di_mato: "Kampuang Nan Jauh Di Mato\n§PFaraway Village in My Eyes§!"
+ lagu_nasakom_bersatu_dengan: "Lagu Nasakom Bersatu\n§PNasakom Unity Song§!"
+ madju_sukarelawan: "Madju Sukarelawan\n§PAdvance Volunteers§!"
+ djasamu_pahlawan: "Djasamu Pahlawan\n§PHeroes' Deeds§!"
+ berikan_daku_harapan: "Berikan Daku Harapan\n§PGive Me Hope§!"
+ pradjurit_pajung_udara: "Pradjurit Pajung Udara\n§PAirborne Troops§!"
+ manuk_dadali: "Manuk Dadali"
+ mars_divisi_siliwangi: "Mars Divisi Siliwangi\n§PSiliwangi Division March§!"
+ mars_genderang_kemenangan: "Mars Genderang Kemenangan\n§PMarch to the Sound of Victory§!"
+ gugur_bunga: "Gugur Bunga\n§PFallen Flowers§!"
+ bagimu_negeri: "Bagimu Negeri\n§PFor You, the Nation§!"
+ rasa_sayange: "Rasa Sayange\n§PLovely Feeling§!"
+ tanah_airku: "Tanah Airku\n§PMy Homeland§!"
+ yamko_rambe_yamko: "Yamko Rambe Yamko"
+ angin_mamiri: "Breezy Wind"
+ bengawan_solo: "Bengawan Solo"
+ genjer_genjer: "Genjer Genjer"
+ krontjong_kemajoran: "Krontjong Kemajoran"
+ selamat_lebaran: "Selamat Lebaran\n§PHappy Fasting§!"
+
+### JAP - Japan ###
+ comrade_in_arms: "Senyū\n§PComrade in Arms§!"
+ hotaru_no_hikari: "Hotaru no Hikari\n§PGlow of a Firefly§!"
+ patriotic_march: "Aikoku Kōshinkyuku\n§PPatriotic March§!"
+ umi_yukaba: "Umi Yukaba\n§PIf I Go Away To the Sea§!"
+ tsushima_march: "Kōshinkyoku 'Nihonkai Kaisen'\n§PTsushima March§!"
+ yuki_no_shingun: "Yuki no Shingun\n§P눈의 진군§!"
+ field_encampment: "Rōei no Uta\n§PField Encampment Song§!"
+ kimigayo: "Kimigayo\n§P일본 국가§!"
+ batto_tai: "Battō-tai\n§P발도대§!"
+ long_live_the_imperial_army: "Kōgun Banzai\n§PLong Live the Imperial Army§!"
+ sakura_sakura: "Sakura, Sakura\n§PCherry Blossom, Cherry Blossom§!"
+ shanghai_street_corner: "Shanhai no Machikado de\n§POn a Shanghai Street Corner§!"
+ miyasan: "Miyasan, Miyasan\n§PMy Prince, my Prince§!"
+ sayon_no_uta: "Sayon no Uta\n§PSayon's Song§!"
+ farewell_blues: "Wakare no Burūsu\n§PFarewell Blues§!"
+ traveling_through_harbin: "Harupin Ryoshū\n§PLoneliness of travelling in Harbin§!"
+ song_of_the_taisei_tyori: "Taisei Yokusan no Uta\n§PSong of the Imperial Rule Assistance Association§!"
+ jap_celebration_march: "Shukuten Kōshinkyoku\n§PCelebration March§!"
+ jap_combined_fleet_march: "Rengō Kantai Kōshinkyoku\n§PCombined Fleet March§!"
+ battleship_shikishima_march: "Shikishima-kan Kōshinkyoku\n§PBattleship Shikishima March§!"
+ song_of_the_send_off: "Shussei Heishi o Okuru Uta\n§PThe Song of the Send-off§!"
+ the_cherry_blossoms_bloom_as_one: "Dōki no Sakura\n§PThe Cherry Blossoms Bloom as One§!"
+ the_infantrymans_specialty: "Hohei no Honryō\n§PThe Infantryman's Speciality§!"
+ warship_march: "Gunkan Kōshinkyoku\n§PWarship March§!"
+ etajima_kenji_no_uta: "Etajima Kenji no Uta\n§PSong of Etajima's Stalwart Youth§!"
+ sora_no_shinpei: "Sora no Shinpei\n§PDivine Soldiers of the Sky§!"
+ kansenkinmu: "Kansenkinmu\n§PShip Work§!"
+ teki_wa_ikuman: "Teki wa Ikuman\n§PUntold Myriads of Enemies§!"
+ itsuki_no_komoriuta: "Itsuki no Komoriuta\n§PItsuki Lullaby§!"
+ kokkyo_no_machi: "Kokkyō no Machi\n§PBorder Town§!"
+
+### LAO - Laos ###
+ phao_lao_ery: "Phao Lao Ery\n§POur Laotian Race§!"
+
+### LEC - Legation Cities ###
+ when_will_you_return: "He Ri Jun zai Lai\n§PWhen will you Return?§!"
+ ye_shang_hai: "Ye Shanghai\n§PNightlife in Shanghai§!"
+ rose_rose_i_love_you: "Meigui Meigui Wo Ai Ni\n§PRose, Rose, I love you§!"
+ yelai_xiang: "Yelai Xiang\n§PFragrance of the Night§!"
+
+### MON - Mongolia ###
+ mongolian_soldier: "Mongolian Soldier"
+ ertnii_saikhan_yerool: "Ertnii Saikhan Yerööl\n§PAn Ancient Blessing§!"
+ chingges_khaanii_magtaa: "Chingges Khaanii Magtaa\n§PIn Praise of Genghis Khan§!"
+
+### PHI - Philippines ###
+ PHI_sarung_banggi: "Sarung Banggi\n§POne Evening§!"
+ PHI_carinosa: "Cariñosa"
+ PHI_lulay: "Lulay"
+ PHI_tinikling: "Tinikling"
+ PHI_magtanim_ay_di_biro: "Magtanim Ay Di Biro\n§PRice Planting Is Not a Joke§!"
+ PHI_pandanggo_sa_ilaw: "Pandanggo Sa Ilaw\n§PDance of the Lights§!"
+ PHI_general_luna_march: "General Luna March"
+ PHI_katipunan_march: "Katipunan March"
+ PHI_mabuhay_march: "Mabuhay March\n§PLong Live March§!"
+ PHI_tatlong_bituin_march: "Tatlong Bituin March\n§PThree Stars March§!"
+ PHI_aray: "Aray!\n§POuch!§!"
+ PHI_mi_bandera: "Mi Bandera\n§PMy Flag§!"
+
+### QIE - Qing ###
+ beiyang_fleet_anthem: "Beiyang Shuishi Junge\n§PBeiyang Fleet March§!"
+ solid_cup_of_gold: "Gong Jin'ou\n§PCup of Solid Gold§!"
+ soldier_training_song: "Dashuai Lianbing Ge\n§PSoldier Training Song§!"
+ pu_tian_song: "Pu Tian Yue\n§PPu Tian Song§!"
+ phoenix_returns_to_its_nest: "Feng Huan Chao\n§PPhoenix Returns to its Nest§!"
+
+### RAJ - British India ###
+ punjab_regimental_march: "Punjab Regimental March"
+
+### SIA - Siam ###
+ siamese_army: "March Korng Thap Bok\n§PRoyal Siamese Army March§!"
+ siamesische_wachtparade: "Siamesische Wachtparade\n§PSiamese Patrol§!"
+ dawk_pradoo: "Dawk Pradoo\n§PAngsana Flower§!"
+ waltz_nawee: "Waltz Nawee\n§PRoyal Siamese Navy Waltz§!"
+ paribatra_march: "March Boripatr\n§PParibatra March§!"
+ damrong_march: "March Damrong\n§PDamrong March§!"
+ bhanurangsi_march: "March Bhanurangsi\n§PBhanurangsi March§!"
+ mueng_kangwon: "Mueng Kangwon\n§PWorriful Nation§!"
+ our_homeland: "Ban Kerd Mueng Norn\n§POur Homeland§!"
+ dern: "Dern\n§PMarch! March! March!§!"
+ national_military_march: "March Taharn Khong Chart\n§PNational Military March§!"
+ sri_ayutthaya: "Sri Ayutthaya"
+ mahanimit: "Mahanimit\n§PGreat Vision§!"
+ mahachai: "Mahachai\n§PGrand Victory§!"
+ siamese_royal_anthem: "Sansoen Phra Barami\n§PGlorify His Prestige§!"
+ floor_fuengfah: "Floor Fuengfah\n§PBougainvillea Dance Floor§!"
+ dao_lom_dearn: "Dao Lom Dearn\n§PMoonlit Night§!"
+ fak_rak: "Fahk Rak\n§PEntrusting My Love§!"
+ khapmai_bantho: "Khapmai Bantho\n§PThai Fife & Drum§!"
+ sutha_kansaeng: "Sutha Kansaeng\n§PWeeping Land§!"
+ khamen_laorong: "Khamen La-or Ong\n§PBeautiful Khmer§!"
+ ratri_pradap_dao: "Ratri Pradap Dao\n§PStarry Night§!"
+ kluen_krathop_fang: "Kluen Krathop Fang\n§PCrashing Waves§!"
+
+#### M I D D L E E A S T ####
+
+### ARM - Armenia ###
+ mer_hayrenik: "Mer Hayrenik\n§POur Fatherland§!"
+ armenian_rhapsody: "Armenian Rhapsody"
+
+### AZR - Azerbaijan ###
+ azerbaycan_marsi: "Azerbaycan Marşı\n§PAnthem of Azerbaijan§!"
+
+### EGY - Egyptian ###
+ alf_lila_wa_lila: "Alf Lila wa Lila"
+ alwan: "Alwan"
+ aziza: "Aziza"
+ banat_iskandaria: "Banat Iskandaria"
+ el_sheitan: "El-Sheitan"
+ farha: "Farha"
+ misirlou: "Misirlou"
+ mosika_amar: "Mosika Amar"
+ ya_shadi_al_halhan: "Ya Shadi al-Halhan"
+
+### GEO - Georgia ###
+ dideba: "Dideba"
+ abesalom_da_eteri: "Abesalom da Eteri\n§PAbesalom and Eteri§!"
+ march_on_themes_of_songs: "Marsh na temy pesen Vano Muradeli\n§PMarch on the themes of Vano Muradeli's songs§!"
+ black_sea_march: "Chernomorskiy marsh\n§PBlack Sea March§!"
+ daisisunset_Overture: "Opera Daisi/Sunset Overture"
+ georgian_march: "Gruzinskiy Marsh\n§PGeorgian March§!"
+
+### PER - Iran ###
+ ey_iran: "Ey Iran\n§PO' Iran§!"
+ persischer_marsch: "Persischer Marsch\n§PPersian March§!"
+ sarzamine_madari: "Sarzamine Madari\n§PSalute of the Sublime State§!"
+ salamati_ye_shah: "Salam-e Shah\n§PThe Royal Salute§!"
+ chaharmezrab_e_esfahan: "Chaharmezrab-e Esfahan"
+ dashti_etude: "Étude in Dastgāh"
+ jila: "Jila"
+ khaabha_ye_talaai: "Khaabha-ye Talaai\n§PGolden Dreams§!"
+ az_delam_bikhbari: "Az Delam Bikhabari"
+ ahange_vafa: "Ahange Vafa"
+ reng_e_afshari: "Reng-e Afshari"
+ reng_e_parichehr: "Reng-e Parichehr"
+ sheyda_shodam: "Sheyda Shodam"
+
+### TUR - Ottoman Empire ###
+ nikriz_pesrev: "Nikriz Peşrev"
+ ceddin_deden: "Ceddin Deden\n§PForefathers§!"
+ anthem: "Mecidiye Marşı\n§POttoman National Anthem§!"
+ bu_aksam_gun_batarken_gel: "Bu Akşam Gün Batarken Gel\n§PCome Tonight at Sundown§!"
+ mey_i_lalinle_dil_mestane_olsun: "Mey-ı Lalinle Dil Mestane Olsun"
+ neva_kar: "Nevâ Kâr"
+ gam_zedeyim_deva_bulmam: "Gam-zedeyim Deva Bulmam"
+ uskudara: "Üsküdara"
+ osman_pasa: "Plevne Marşı\n§PPlevna March§!"
+ hicazkar_sirto: "Hicazkar Sirto"
+ ah_bir_atas_ver: "Ah Bir Ataş Ver\n§POh Give Me A Lighter§!"
+ canakkale_icinde_aynali_carsi: "Çanakkale içinde Aynalı Çarşı\n§PMirrored Bazaar in Canakkale§!"
+ ittihat_ve_terakki: "Deniz Üstü Köpürür\n§PFoams Above The Sea§!"
+ uzzal_pesrev: "Uzzâl Peşrev"
+ millet_i_osmani_marsi: "Millet-i Osmani Marşı\n§POttoman People's March§!"
+ hucum_marsi: "Hücum Marşı\n§PAttack March§!"
+ resadiye_marsi: "Resadiye Marsi\n§PResad's March§!"
+ osmaniye_marsi: "Osmaniye Marşı\n§POsman's March§!"
+ march_of_the_ottoman_exhibition: "March of the Ottoman Exhibition"
+ izmir_marsi: "İzmir Marşı\n§PIzmir March§!"
+ kocekce: "Köçekçe"
+
+####     A F R I C A     ####
+
+### ALG - Algeria ###
+ ahlen_bikoum: "Ahlen Bikoum"
+
+### ETH - Ethiopia ###
+ anthem_of_ethiopia: "Anthem of the Empire of Ethiopia"
+ ere_ye_agerie_lidj: "Ere Ye Agerie Lidj"
+ eyquel: "Eyquel"
+ fano: "Fano"
+ gum_gum: "Gum Gum"
+ humming_song: "Humming Song"
+ medinanna_zelesegna: "Medinanna Zelesegna"
+ yeemebetatchen_selamta: "Yeemebetatchen Selamta"
+
+### LBA - Libya ###
+ saadaoudi: "Saadaoudi"
+
+### LIB - Liberia ###
+ all_hail_liberia: "All Hail, Liberia, Hail!"
+ domagbe: "Domagbe"
+
+### MAF - Mittelafrika ###
+ heia_safari: "Heia Safari"
+ ich_fahr_mit_meiner_klara_in_die_sahara: "Ich Fahr mit meiner Klara in die Sahara\n§PI ride with my Klara in the Sahara§!"
+
+### MLI - Mali ###
+ celu_mankan: "Celu Mankan"
+
+### MOR - Morocco ###
+ lamma_bada: "Lamma Bada\n§PWhen She Appeared§!"
+ al_kasbah: "Al-Kasbah"
+ fi_l_rawd_ana_shouft: "Fi L'Rawd ana Shouft"
+ jadaka_al_gayth: "Jadaka al-Gayth"
+ aytat_mulay_ibrahim: "Aytat Mulay Ibrahim"
+ e_zzine_emlih_yamana: "E Zzine Emlih Yamana"
+ el_djinat_el_kheil: "El Djinat El Kheil"
+ ghina_loziq: "Ghina Loziq"
+ ma_thama_zinek: "Ma Thama Zinek"
+ salamou_aleikom: "Salamou Aleikom"
+ ya_fatma: "Ya Fatma"
+
+### NMB - Sudwestafrika ###
+ hart_wie_kameldornholz: "Hart wie Kameldornholz\n§PHard as Camelthorn Wood§!"
+
+### SAF - South Africa ###
+ stellenbosch_boys: "Stellenbosch Boys"
+ pack_your_things_and_trek: "Pack your Things and Trek"
+ daar_kom_die_alibama: "Daar Kom die Alibama\n§PThere Comes the Alibama§!"
+ die_stem: "Die Stem van Suid-Afrika\n§PThe Call of South Africa§!"
+ gijima_mfana: "Gijima Mfana\n§PThe Mfana Run§!"
+ walilizel_umama: "Walilizel 'umama"
+ sarie_marais: "Sarie Marais"
+ o_tante_koba: "O Tante Koba\n§POh Aunt Koba§!"
+ ry_maar_aan_ossewa: "Ry Maar aan Ossewa\n§PDrive on the Ox Wagon§!"
+ swaziland: "Swaziland"
+ drakensberge: "Drakensberge"
+ margolet: "Margolet"
+ op_patrollie: "Op Patrollie\n§POn Patrol§!"
+ silwerpyl: "Silwerpyl\n§PSilver Arrow§!"
+ train_to_kimberly: "Train to Kimberly"
+ voorwaarts: "Voorwaarts!\n§PForward!§!"
+ zambesi: "Zambesi"
+ zulu_warrior: "Zulu Warrior"
+
+### SOM - Somalia ###
+ Maolid: "Maolid"
+ guelabiessi: "Guelabiessi"
+
+### TUN - Tunisia ###
+ wasla_mezmoum: "Wasla Mezmoum"
+ chember_nawa: "Chember Nawa"
+ enna_nehoub: "Enna Nehoub"
+
+### ZAN - Zanzibar ###
+ comic_sketch: "Comic Sketch"
