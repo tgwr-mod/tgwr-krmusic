@@ -397,13 +397,317 @@ music = {
 }
 
 ### Chinese Region ###
+ ## Traditional ##
+music= {
+	song = "CHN_yigen_biandan"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = SHX
+				controls_state = 615 #Taiyuan
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_dui_hua"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = SHX
+				controls_state = 615 #Taiyuan
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_hongcai_meimei"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = SHX
+				controls_state = 621 #Guisui
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_pao_yangyu"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = SHX
+				controls_state = 615 #Taiyuan
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_ganji"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				# tag = LEP
+				controls_state = 606 #Anqing
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_caicha_yao"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				# tag = LEP
+				controls_state = 595 #Nanping
+			}
+		}
+	}
+}
+music= {
+	song = "CHN_zhizhu_diao"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				# tag = LEP
+				controls_state = 598 #Nanjing
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_yu_bu_sa_huahua_bu_hong"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = YUN
+				controls_state = 325 #Kunming
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_chashan_qingge"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = YUN
+				controls_state = 603 #Guiyang
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+music= {
+	song = "CHN_wucai_yunxia"
+	chance = {
+		base = 0
+		modifier = {
+			add = 10
+			is_china_or_warlord_no_tt = yes
+			OR = {
+				tag = YUN
+				controls_state = 325 #Kunming
+			}
+		}
+		modifier = { factor = 2		has_war = no }
+	}
+}
+
+ ## Shidaiqu ##
+music = {
+	song = "CHN_meigui_meigui_wo_ai_ni"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_nage_bu_duoqing"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_bailan_xiang"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_qinhuai_hepan"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_daizhe_yanlei_chang"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_chongfeng"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_suzhou_hebian"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_de_bu_dao_de_aiqing"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
+music = {
+	song = "CHN_shasha_zaihui_ba"
+	chance = {
+		base = 0
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
+	}
+}
 
 music = {
 	song = "flowers_of_spring"
 	chance = {
 		base = 0
-		modifier = { add = 10		is_china_or_warlord_no_tt = yes }
-		modifier = { factor = 2		has_war = no }
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
 	}
 }
 music = {
@@ -426,8 +730,16 @@ music = {
 	song = "the_swallow"
 	chance = {
 		base = 0
-		modifier = { add = 10		is_china_or_warlord_no_tt = yes }
-		modifier = { factor = 2		has_war = no }
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
 	}
 }
 music = {
@@ -442,16 +754,32 @@ music = {
 	song = "blooming_flowers_full_moon"
 	chance = {
 		base = 0
-		modifier = { add = 10		is_china_or_warlord_no_tt = yes }
-		modifier = { factor = 2		has_war = no }
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
 	}
 }
 music = {
 	song = "my_life_without_you"
 	chance = {
 		base = 0
-		modifier = { add = 10		is_china_or_warlord_no_tt = yes }
-		modifier = { factor = 2		has_war = no }
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
 	}
 }
 music = {
@@ -462,14 +790,9 @@ music = {
 			add = 10
 			is_china_or_warlord_no_tt = yes
 			OR = {
-				is_subject_of = JAP
+				has_idea = CHI_FNG_idea_kwantung_army
 				is_in_faction_with = JAP
 			}
-
-
-
-
-
 		}
 		modifier = { factor = 2		has_war = no}
 	}
@@ -478,8 +801,16 @@ music = {
 	song = "forever_smiling"
 	chance = {
 		base = 0
-		modifier = { add = 10		is_china_or_warlord_no_tt = yes }
-		modifier = { factor = 2		has_war = no }
+		modifier = { add = 5	is_china_or_warlord_no_tt = yes }
+		modifier = {
+			factor = 5
+			OR = {
+				controls_state = 592 #Guangzhou
+				controls_state = 608 #Beijing
+				controls_state = 598 #Nanjing
+				controls_state = 613 #Shanghai
+			}
+		}
 	}
 }
 music = {
@@ -501,6 +832,7 @@ music = {
 				tag = GXC
 				tag = HNC
 				tag = YUN
+				tag = GDC
 				tag = CHI
 			}
 		}
@@ -4965,18 +5297,6 @@ music = {
 	}
 }
 music = {
-	song = "rose_rose_i_love_you"
-	chance = {
-		base = 0
-		modifier = {
-			add = 10
-			is_china_or_warlord_no_tt = yes
-			owns_state = 613 # Shanghai
-		}
-		modifier = { add = 20	has_cosmetic_tag = OST_LGC }
-	}
-}
-music = {
 	song = "yelai_xiang"
 	chance = {
 		base = 0
@@ -4987,11 +5307,6 @@ music = {
 				is_subject_of = JAP
 				is_in_faction_with = JAP
 			}
-
-
-
-
-
 		}
 		modifier = { add = 15	has_cosmetic_tag = OST_LGC }
 	}

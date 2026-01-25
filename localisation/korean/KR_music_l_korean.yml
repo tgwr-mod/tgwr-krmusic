@@ -80,6 +80,28 @@
  el_candu: "El Candú"
 
 ### Chinese Region ###
+ ## Traditional
+ CHN_yigen_biandan: "Yigen Biandan (산시 민요)\n§PA Carrying Pole§!"
+ CHN_dui_hua: "Dui Hua (산시 민요)\n§PFlower Dialogue§!"
+ CHN_hongcai_meimei: "Hongcai Meimei (Suiyuan Folk Song)\n§PRainbow Girl§!"
+ CHN_pao_yangyu: "Pao Yangyu (산시 민요)\n§PDigging Up Potatoes§!"
+ CHN_ganji: "Ganji (안휘 민요)\n§PHurrying to Market§!"
+ CHN_caicha_yao: "Caicha Yao (푸젠 민요)\n§PTea-Picking Work Song§!"
+ CHN_zhizhu_diao: "Zhizhu Diao (장쑤 민요)\n§PPurple Bamboo Tune§!"
+ CHN_yu_bu_sa_huahua_bu_hong: "Yu Bu Sa Huahua Bu Hong (윈난 민요)\n§PIf the Rain Does Not Fall, the Flowers Are Not Red§!"
+ CHN_chashan_qingge: "Chashan Qingge (구이저우 민요)\n§PTea Mountain Love Songs§!"
+ CHN_wucai_yunxia: "Wucai Yunxia (윈난 민요)\n§PMulti-Coloured Clouds§!"
+ ## Shidaiqu
+ CHN_meigui_meigui_wo_ai_ni: "Meigui Meigui Wo Ai Ni\n§PRose, Rose I Love You§!"
+ CHN_nage_bu_duoqing: "Nage Bu Duoqing\n§PWho Would Not Be Sentimental?§!"
+ CHN_bailan_xiang: "Bailan Xiang\n§PWhite Orchid Fragrance§!"
+ CHN_qinhuai_hepan: "Qinhuai Hepan\n§PBy the Qinhuai River§!"
+ CHN_daizhe_yanlei_chang: "Daizhe Yanlei Chang\n§PSinging with Tears§!"
+ CHN_chongfeng: "Chongfeng\n§PReunion§!"
+ CHN_suzhou_hebian: "Suzhou Hebian\n§PBy the Suzhou Creek§!"
+ CHN_de_bu_dao_de_aiqing: "De Bu Dao De Aiqing\n§PUnattainable Love§!"
+ CHN_shasha_zaihui_ba: "Shasha Zaihui Ba\n§PSasha, Farewell§!"
+
  flowers_of_spring: "Yingchun Hua\n§PWinter Jasmine§!"
  golden_snakes_furiously_dancing: "Jinshe Kuang Wu\n§PGolden Snakes Furiously Dancing§!"
  shanghai_lil_edogawa_version: "Shanghai Lil\n§PEdogawa Version§!"
@@ -1136,7 +1158,6 @@
 ### LEC - Legation Cities ###
  when_will_you_return: "He Ri Jun zai Lai\n§PWhen will you Return?§!"
  ye_shang_hai: "Ye Shanghai\n§PNightlife in Shanghai§!"
- rose_rose_i_love_you: "Meigui Meigui Wo Ai Ni\n§PRose, Rose, I love you§!"
  yelai_xiang: "Yelai Xiang\n§PFragrance of the Night§!"
 
 ### MON - Mongolia ###
