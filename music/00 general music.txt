@@ -224,21 +224,21 @@ music = {
 	song = "yamurru_uyaban"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ZAN tag = ARB tag = DAR } }
 	}
 }
 music = {
 	song = "bashraf_farahfaza"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ARB tag = ASY tag = KUR } }
 	}
 }
 music = {
 	song = "bint_al_balad"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ZAN tag = ARB tag = DAR } }
 	}
 }
 music = {
@@ -252,28 +252,28 @@ music = {
 	song = "longa_farahfaza"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ARB tag = ASY tag = KUR } }
 	}
 }
 music = {
 	song = "longa_shahnaz"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ARB } }
 	}
 }
 music = {
 	song = "samai_bayati"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ZAN tag = ARB tag = DAR } }
 	}
 }
 music = {
 	song = "samai_shahnaz"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_arabian_peninsula_tag = yes }
+		modifier = { add = 20	OR = { is_arabian_peninsula_tag = yes tag = ARB } }
 	}
 }
 music = {
@@ -286,6 +286,8 @@ music = {
 				tag = LEB
 				tag = SYR
 				tag = IRQ tag = ARB
+				tag = ZAN tag = ASY
+				tag = DAR tag = KUR
 				is_arabian_peninsula_tag = yes
 			}
 		}
@@ -925,6 +927,8 @@ music = {
 				tag = UKR
 				original_tag = BLR
 				tag = POL
+				tag = GAL
+				tag = WUK
 			}
 		}
 	}
@@ -1228,56 +1232,56 @@ music = {
 	song = "HND_kafi_holi"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "HND_dhun"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "HND_mishra_piloo"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "HND_raga_puriya_dhanashri"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "HND_raga_charu_keshi"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "jana_gana_maza"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "o_pardesi_musafir"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 music = {
 	song = "duniya_walay"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = MLD original_tag = NEP original_tag = KLT original_tag = SKK original_tag = NEP original_tag = BHU } }
+		modifier = { add = 20	OR = { original_tag = RAJ original_tag = PAK original_tag = BAN original_tag = HYD original_tag = MYS original_tag = JKS original_tag = SRL original_tag = KLT original_tag = BAR original_tag = BHO original_tag = GWA } }
 	}
 }
 
@@ -1327,7 +1331,7 @@ music = {
 	song = "da_pukhto_tair_hair_awazona"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = AFG }
+		modifier = { add = 20	OR = { tag = AFG tag = BLC } }
 	}
 }
 
@@ -1454,7 +1458,7 @@ music = {
 	song = "ituzaingo"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = ARG }
+		modifier = { add = 20	OR = { tag = ARG tag = RGS } }
 	}
 }
 music = {
@@ -1496,7 +1500,7 @@ music = {
 	song = "mi_noche_triste"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = ARG }
+		modifier = { add = 20	OR = { tag = ARG tag = RGS } }
 	}
 }
 music = {
@@ -1538,7 +1542,7 @@ music = {
 	song = "armenian_rhapsody"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = ARM }
+		modifier = { add = 20	OR = { tag = ARM tag = CAU } }
 	}
 }
 
@@ -1862,7 +1866,7 @@ music = {
 	song = "azerbaycan_marsi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = AZR }
+		modifier = { add = 20	OR = { tag = AZR tag = KRS tag = CAU tag = MRG tag = MAK } }
 	}
 }
 
@@ -2065,7 +2069,13 @@ music = {
 			add = 20
 			OR = {
 				tag = BOS
-				tag = CRO
+				AND = {
+					OR = { tag = CRO tag = SER tag = SLV }
+					104 = {
+						is_owned_by = PREV
+						is_core_of = PREV
+					}
+				}
 			}
 		}
 	}
@@ -2077,7 +2087,7 @@ music = {
 	song = "a_lua_veio_ver"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
@@ -2141,7 +2151,7 @@ music = {
 	song = "himno_constitucionalista"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
@@ -2159,7 +2169,7 @@ music = {
 	song = "sentinela_do_brazil"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
@@ -2177,28 +2187,28 @@ music = {
 	song = "o_corta_jaca"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
 	song = "quanta_tristeza"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
 	song = "quatro_tenentes"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 music = {
 	song = "cancao_do_exercito"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BRA }
+		modifier = { add = 20	OR = { tag = BRA tag = RGS } }
 	}
 }
 
@@ -2208,7 +2218,7 @@ music = {
 	song = "balkan_rhapsody_vardar"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = BUL }
+		modifier = { add = 20	OR = { tag = BUL tag = MAC } }
 	}
 }
 
@@ -2248,7 +2258,7 @@ music = {
 			add = 20
 			AND = {
 				NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-				tag = BUL
+				OR = { tag = BUL tag = MAC }
 			}
 		}
 	}
@@ -2274,7 +2284,7 @@ music = {
 			add = 20
 			AND = {
 				NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-				tag = BUL
+				OR = { tag = BUL tag = MAC }
 			}
 		}
 	}
@@ -2287,7 +2297,7 @@ music = {
 			add = 20
 			AND = {
 				NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-				tag = BUL
+				OR = { tag = BUL tag = MAC }
 			}
 		}
 	}
@@ -2349,14 +2359,14 @@ music = {
 	song = "the_banks_of_newfoundland"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CAN }
+		modifier = { add = 20	OR = { tag = CAN tag = NFL } }
 	}
 }
 music = {
 	song = "farewell_to_nova_scotia"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CAN }
+		modifier = { add = 20	OR = { tag = CAN tag = NFL } }
 	}
 }
 music = {
@@ -2699,21 +2709,21 @@ music = {
 	song = "dinarka_ples_bola_i_ponosa"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CRO }
+		modifier = { add = 20	OR = { tag = CRO tag = MNT tag = MAC AND = { tag = SER OR = { has_cosmetic_tag = SER_YUG has_cosmetic_tag = YUG } } } }
 	}
 }
 music = {
 	song = "idila"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CRO }
+		modifier = { add = 20	OR = { tag = CRO tag = SLV tag = MAC AND = { tag = SER OR = { has_cosmetic_tag = SER_YUG has_cosmetic_tag = YUG } } } }
 	}
 }
 music = {
 	song = "istarska_suita"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CRO }
+		modifier = { add = 20	OR = { tag = CRO tag = SLV tag = MAC AND = { tag = SER OR = { has_cosmetic_tag = SER_YUG has_cosmetic_tag = YUG } } } }
 	}
 }
 music = {
@@ -2722,9 +2732,22 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
+			has_monarchy = yes
 			OR = {
-				tag = CRO
-				OR = { AND = { original_tag = AUS has_monarchy = yes } AND = { is_subject = yes OVERLORD = { is_austria_hungary = yes } } }
+				AND = {
+					tag = CRO
+					is_subject = yes
+					OVERLORD = {
+						OR = { original_tag = AUS original_tag = HUN }
+					}
+				}
+				AND = {
+					OR = { original_tag = AUS original_tag = HUN }
+					any_state = {
+						is_owned_or_subject_PREV_trigger = yes
+						is_core_of = CRO
+					}
+				}
 			}
 		}
 	}
@@ -2837,7 +2860,7 @@ music = {
 	song = "muj_konicek"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CZE }
+		modifier = { add = 20	OR = { tag = CZE tag = SLO } }
 	}
 }
 music = {
@@ -2854,7 +2877,7 @@ music = {
 		modifier = {
 			add = 20
 			OR = {
-				tag = CZE
+				tag = CZE tag = SLO
 				OR = { AND = { original_tag = AUS has_monarchy = yes } AND = { is_subject = yes OVERLORD = { is_austria_hungary = yes } } }
 			}
 		}
@@ -2879,8 +2902,19 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
-			tag = DEN
-			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
+			OR = {
+				AND = {
+					tag = DEN
+					NOT = {
+						has_government = communism
+						has_country_leader_ideology = social_democracy
+					}
+				}
+				AND = {
+					is_subject_of = DEN
+					OVERLORD = { has_monarchy = yes }
+				}
+			}
 		}
 	}
 }
@@ -2890,8 +2924,19 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
-			tag = DEN
-			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
+			OR = {
+				AND = {
+					tag = DEN
+					NOT = {
+						has_government = communism
+						has_country_leader_ideology = social_democracy
+					}
+				}
+				AND = {
+					is_subject_of = DEN
+					OVERLORD = { has_monarchy = yes }
+				}
+			}
 		}
 	}
 }
@@ -2901,8 +2946,19 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
-			tag = DEN
-			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
+			OR = {
+				AND = {
+					tag = DEN
+					NOT = {
+						has_government = communism
+						has_country_leader_ideology = social_democracy
+					}
+				}
+				AND = {
+					is_subject_of = DEN
+					OVERLORD = { has_monarchy = yes }
+				}
+			}
 		}
 	}
 }
@@ -2912,8 +2968,19 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
-			tag = DEN
-			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
+			OR = {
+				AND = {
+					tag = DEN
+					NOT = {
+						has_government = communism
+						has_country_leader_ideology = social_democracy
+					}
+				}
+				AND = {
+					is_subject_of = DEN
+					OVERLORD = { has_monarchy = yes }
+				}
+			}
 		}
 	}
 }
@@ -3129,7 +3196,7 @@ music = {
 	song = "alf_lila_wa_lila"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = EGY }
+		modifier = { add = 20	OR = { tag = EGY tag = DAR } }
 	}
 }
 music = {
@@ -3378,56 +3445,56 @@ music = {
 	song = "anthem_of_ethiopia"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	tag = ETH }
 	}
 }
 music = {
 	song = "ere_ye_agerie_lidj"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "eyquel"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "fano"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "gum_gum"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "humming_song"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "medinanna_zelesegna"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	OR = { tag = ETH tag = AFA tag = GOB tag = JMA } }
 	}
 }
 music = {
 	song = "yeemebetatchen_selamta"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = ETH tag = AFA } }
+		modifier = { add = 20	tag = ETH }
 	}
 }
 
@@ -3448,7 +3515,7 @@ music = {
 	song = "sakkijarvi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 music = {
@@ -3462,14 +3529,14 @@ music = {
 	song = "elamaa"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 music = {
 	song = "ievan_polkka"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 music = {
@@ -3490,7 +3557,7 @@ music = {
 	song = "kaiho"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 music = {
@@ -3504,7 +3571,7 @@ music = {
 	song = "maantie"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 music = {
@@ -3539,7 +3606,7 @@ music = {
 	song = "suomenmaa"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = FIN }
+		modifier = { add = 20	OR = { tag = FIN tag = KAR } }
 	}
 }
 
@@ -4010,35 +4077,35 @@ music = {
 	song = "abesalom_da_eteri"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GEO }
+		modifier = { add = 20	OR = { tag = GEO tag = CAU } }
 	}
 }
 music = {
 	song = "black_sea_march"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GEO }
+		modifier = { add = 20	OR = { tag = GEO tag = CAU } }
 	}
 }
 music = {
 	song = "daisisunset_Overture"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GEO }
+		modifier = { add = 20	OR = { tag = GEO tag = CAU } }
 	}
 }
 music = {
 	song = "georgian_march"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GEO }
+		modifier = { add = 20	OR = { tag = GEO tag = CAU } }
 	}
 }
 music = {
 	song = "march_on_themes_of_songs"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GEO }
+		modifier = { add = 20	OR = { tag = GEO tag = CAU } }
 	}
 }
 
@@ -4076,7 +4143,7 @@ music = {
 	song = "pindus_march"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GRE }
+		modifier = { add = 20	OR = { tag = GRE tag = EPR } }
 	}
 }
 music = {
@@ -4090,7 +4157,7 @@ music = {
 	song = "evzonaki"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GRE }
+		modifier = { add = 20	OR = { tag = GRE tag = CRE tag = EPR tag = SMS tag = IKR tag = PON tag = CYP } }
 	}
 }
 music = {
@@ -4125,7 +4192,7 @@ music = {
 	song = "aegean_sailor_march"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GRE }
+		modifier = { add = 20	OR = { tag = GRE tag = SMS tag = IKR tag = CYP tag = CRE } }
 	}
 }
 music = {
@@ -4146,7 +4213,7 @@ music = {
 	song = "greece_never_dies"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = GRE }
+		modifier = { add = 20	OR = { tag = GRE tag = CRE tag = EPR tag = SMS tag = IKR tag = PON tag = CYP } }
 	}
 }
 
@@ -4303,7 +4370,7 @@ music = {
 	song = "huzarenmars"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = HOL }
+		modifier = { add = 20	OR = { original_tag = HOL tag = ORA tag = SAF } }
 	}
 }
 music = {
@@ -4324,7 +4391,7 @@ music = {
 	song = "merck_toch_hoe_sterck"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = HOL }
+		modifier = { add = 20	OR = { original_tag = HOL tag = ORA tag = SAF } }
 	}
 }
 music = {
@@ -4929,7 +4996,7 @@ music = {
 	song = "italian_polka"
 	chance = {
 		base = 0
-		modifier = { add = 20	is_italian_nation = yes }
+		modifier = { add = 20	OR = { is_italian_nation = yes tag = MCO tag = COR } }
 	}
 }
 
@@ -5266,7 +5333,7 @@ music = {
 	song = "saadaoudi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = LBA }
+		modifier = { add = 20	OR = { tag = LBA tag = TRP tag = DAR } }
 	}
 }
 
@@ -5606,14 +5673,14 @@ music = {
 	song = "lamma_bada"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = TGR } }
 	}
 }
 music = {
 	song = "al_kasbah"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = TGR } }
 	}
 }
 music = {
@@ -5627,14 +5694,14 @@ music = {
 	song = "jadaka_al_gayth"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = TGR } }
 	}
 }
 music = {
 	song = "aytat_mulay_ibrahim"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = RIF } }
 	}
 }
 music = {
@@ -5648,7 +5715,7 @@ music = {
 	song = "el_djinat_el_kheil"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = RIF } }
 	}
 }
 music = {
@@ -5669,14 +5736,14 @@ music = {
 	song = "salamou_aleikom"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = TGR tag = RIF } }
 	}
 }
 music = {
 	song = "ya_fatma"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = MOR }
+		modifier = { add = 20	OR = { tag = MOR tag = TGR tag = RIF } }
 	}
 }
 
@@ -5745,7 +5812,7 @@ music = {
 	song = "le_reve_passe"
 	chance = {
 		base = 0
-		modifier = { add = 20	AND = { tag = FRA NOT = { has_government = communism } } }
+		modifier = { add = 20	AND = { OR = { tag = FRA tag = MCO } NOT = { has_government = communism } } }
 	}
 }
 music = {
@@ -5858,7 +5925,7 @@ music = {
 	song = "chant_du_depart"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = FRA }
+		modifier = { add = 20	OR = { original_tag = FRA tag = COR is_subject_of = FRA } }
 	}
 }
 music = {
@@ -5872,7 +5939,7 @@ music = {
 	song = "sambre_et_meuse"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = FRA }
+		modifier = { add = 20	OR = { original_tag = FRA is_subject_of = FRA } }
 	}
 }
 music = {
@@ -5886,7 +5953,7 @@ music = {
 	song = "le_boudin"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = FRA }
+		modifier = { add = 20	OR = { original_tag = FRA is_subject_of = FRA } }
 	}
 }
 music = {
@@ -6064,7 +6131,7 @@ music = {
 		base = 0
 		modifier = {
 			add = 20
-			tag = NOR
+			OR = { tag = NOR tag = ICE }
 			AND = { has_government = neutrality has_government = fascism }
 		}
 	}
@@ -6099,6 +6166,7 @@ music = {
 			add = 20
 			OR = {
 				tag = NOR
+				tag = ICE
 				has_cosmetic_tag = SCA
 			}
 		}
@@ -6242,7 +6310,7 @@ music = {
 	song = "ceddin_deden"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
@@ -6270,14 +6338,14 @@ music = {
 	song = "millet_i_osmani_marsi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
 	song = "hucum_marsi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
@@ -6298,14 +6366,14 @@ music = {
 	song = "nikriz_pesrev"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
 	song = "osman_pasa"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
@@ -6326,7 +6394,7 @@ music = {
 	song = "ittihat_ve_terakki"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
@@ -6340,14 +6408,14 @@ music = {
 	song = "uzzal_pesrev"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
 	song = "hicazkar_sirto"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = AZR tag = KRS tag = WTH tag = CYP tag = CRE tag = SMS tag = IKR tag = PON tag = MRG tag = MAK } }
 	}
 }
 music = {
@@ -6375,7 +6443,7 @@ music = {
 	song = "izmir_marsi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = TUR }
+		modifier = { add = 20	OR = { tag = TUR tag = KRS tag = WTH } }
 	}
 }
 music = {
@@ -6478,14 +6546,14 @@ music = {
 	song = "persischer_marsch"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = PER }
+		modifier = { add = 20	OR = { tag = PER tag = BLC tag = MRG tag = MAK } }
 	}
 }
 music = {
 	song = "sarzamine_madari"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = PER }
+		modifier = { add = 20	OR = { tag = PER tag = BLC tag = KUR tag = MRG tag = MAK } }
 	}
 }
 music = {
@@ -6499,7 +6567,7 @@ music = {
 	song = "chaharmezrab_e_esfahan"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = PER }
+		modifier = { add = 20	OR = { tag = PER tag = BLC tag = KUR tag = MRG tag = MAK } }
 	}
 }
 music = {
@@ -6541,14 +6609,14 @@ music = {
 	song = "reng_e_afshari"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = PER }
+		modifier = { add = 20	OR = { tag = PER tag = BLC tag = KUR tag = MRG tag = MAK } }
 	}
 }
 music = {
 	song = "reng_e_parichehr"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = PER }
+		modifier = { add = 20	OR = { tag = PER tag = BLC tag = KUR tag = MRG tag = MAK } }
 	}
 }
 music = {
@@ -6699,14 +6767,14 @@ music = {
 	song = "przybyli_ulani_pod_okienko"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = POL }
+		modifier = { add = 20	OR = { tag = POL tag = GAL } }
 	}
 }
 music = {
 	song = "my_pierwsza_brygada"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = POL }
+		modifier = { add = 20	OR = { tag = POL tag = GAL } }
 	}
 }
 music = {
@@ -6959,7 +7027,7 @@ music = {
 	}
 }
 
-### QIE - Qing ###
+### QIN - Qing ###
 
 music = {
 	song = "beiyang_fleet_anthem"
@@ -7004,20 +7072,20 @@ music = {
 	}
 }
 
-### QUE - Quebec ###
+### QBC - Quebec ###
 
 music = {
 	song = "men_revenant"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CAN }
+		modifier = { add = 20	OR = { tag = CAN tag = QBC } }
 	}
 }
 music = {
 	song = "la_feuilled_erable"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = CAN }
+		modifier = { add = 20	OR = { tag = CAN tag = QBC } }
 	}
 }
 
@@ -7057,14 +7125,14 @@ music = {
 	song = "iui_iancu"
 	chance = {
 		base = 0
-		modifier = { add = 20		tag = ROM }
+		modifier = { add = 20		OR = { tag = ROM tag = TRA } }
 	}
 }
 music = {
 	song = "treceti_batalioane_romane_carpatii"
 	chance = {
 		base = 0
-		modifier = { add = 20		tag = ROM }
+		modifier = { add = 20		OR = { tag = ROM tag = TRA } }
 	}
 }
 music = {
@@ -7087,7 +7155,7 @@ music = {
 	song = "desteapta"
 	chance = {
 		base = 0
-		modifier = { add = 20		tag = ROM }
+		modifier = { add = 20		OR = { tag = ROM tag = MOL tag = TRA } }
 	}
 }
 music = {
@@ -7101,14 +7169,14 @@ music = {
 	song = "lelita_saftita"
 	chance = {
 		base = 0
-		modifier = { add = 20		tag = ROM }
+		modifier = { add = 20		OR = { tag = ROM tag = MOL tag = BNT } }
 	}
 }
 music = {
 	song = "stefan"
 	chance = {
 		base = 0
-		modifier = { add = 20		tag = ROM }
+		modifier = { add = 20		OR = { tag = ROM tag = MOL } }
 	}
 }
 music = {
@@ -7754,7 +7822,7 @@ music = {
 		}
 		modifier = {
 			add = 20
-			tag = SCO
+			OR = { tag = SCO tag = BRI }
 		}
 	}
 }
@@ -7791,14 +7859,14 @@ music = {
 	song = "march_to_river_drina"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = SER }
+		modifier = { add = 20	OR = { tag = SER tag = MNT } }
 	}
 }
 music = {
 	song = "nizamski_rastanak"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = SER }
+		modifier = { add = 20	OR = { tag = SER tag = MNT tag = BOS tag = MAC tag = BNT } }
 	}
 }
 music = {
@@ -7826,7 +7894,7 @@ music = {
 	song = "tamo_daleko"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = SER }
+		modifier = { add = 20	OR = { tag = SER tag = MNT } }
 	}
 }
 music = {
@@ -8164,14 +8232,14 @@ music = {
 	song = "guelabiessi"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = SOM tag = HBY tag = GLD tag = MJT } }
+		modifier = { add = 20	OR = { tag = SOM tag = HBY tag = GLD tag = MJT tag = ZAN } }
 	}
 }
 music = {
 	song = "Maolid"
 	chance = {
 		base = 0
-		modifier = { add = 20	OR = { tag = SOM tag = HBY tag = GLD tag = MJT } }
+		modifier = { add = 20	OR = { tag = SOM tag = HBY tag = GLD tag = MJT tag = ZAN } }
 	}
 }
 
@@ -8181,28 +8249,28 @@ music = {
 	song = "concierto"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = SPR }
+		modifier = { add = 20	OR = { original_tag = SPR tag = ADR tag = GLC } }
 	}
 }
 music = {
 	song = "santiago_de_murcia"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = SPR }
+		modifier = { add = 20	OR = { original_tag = SPR tag = ADR tag = GLC } }
 	}
 }
 music = {
 	song = "capricho_arabe"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = SPR }
+		modifier = { add = 20	OR = { original_tag = SPR tag = ADR tag = CAT } }
 	}
 }
 music = {
 	song = "xacaras"
 	chance = {
 		base = 0
-		modifier = { add = 20	original_tag = SPR }
+		modifier = { add = 20	OR = { original_tag = SPR tag = ADR tag = GLC } }
 	}
 }
 music = {
@@ -8256,7 +8324,7 @@ music = {
 		modifier = {
 			add = 20
 			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = CAT }
 		}
 	}
 }
@@ -8267,7 +8335,7 @@ music = {
 		modifier = {
 			add = 20
 			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = NAV }
 		}
 	}
 }
@@ -8278,7 +8346,7 @@ music = {
 		modifier = {
 			add = 20
 			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = NAV }
 		}
 	}
 }
@@ -8300,7 +8368,7 @@ music = {
 		modifier = {
 			add = 20
 			NOT = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = GLC }
 		}
 	}
 }
@@ -8333,14 +8401,14 @@ music = {
 	song = "calzame_las_alpargatas"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = SPR }
+		modifier = { add = 20	OR = { tag = SPR tag = NAV } }
 	}
 }
 music = {
 	song = "marcha_de_oriamendi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = SPR }
+		modifier = { add = 20	OR = { tag = SPR tag = NAV } }
 	}
 }
 music = {
@@ -8585,7 +8653,7 @@ music = {
 		modifier = {
 			add = 20
 			NOT = { has_government = neutrality has_government = fascism }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = CAT }
 		}
 	}
 }
@@ -8596,7 +8664,7 @@ music = {
 		modifier = {
 			add = 20
 			OR = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = CAT }
 		}
 	}
 }
@@ -8618,7 +8686,7 @@ music = {
 		modifier = {
 			add = 20
 			OR = { has_government = communism has_country_leader_ideology = social_democracy }
-			original_tag = SPR
+			OR = { original_tag = SPR tag = CAT }
 		}
 	}
 }
@@ -8726,6 +8794,9 @@ music = {
 			OR = {
 				tag = TUN
 				tag = LBA
+				tag = TRP
+				tag = TGR
+				tag = RIF
 			}
 		}
 	}
@@ -8739,6 +8810,9 @@ music = {
 			OR = {
 				tag = TUN
 				tag = LBA
+				tag = TRP
+				tag = TGR
+				tag = RIF
 			}
 		}
 	}
@@ -8778,35 +8852,35 @@ music = {
 	song = "nalyvaite_brattia_kryshtalevi_chashi"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK tag = GAL } }
 	}
 }
 music = {
 	song = "ukraine_is_not_yet_lost"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK } }
 	}
 }
 music = {
 	song = "oh_the_red_viburnum_in_the_meadow"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK tag = GAL } }
 	}
 }
 music = {
 	song = "prayer_for_ukraine"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK tag = GAL } }
 	}
 }
 music = {
 	song = "we_were_born_in_a_great_hour"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK } }
 	}
 }
 music = {
@@ -8855,7 +8929,7 @@ music = {
 	song = "ked_my_pryishla_karta"
 	chance = {
 		base = 0
-		modifier = { add = 20	tag = UKR }
+		modifier = { add = 20	OR = { tag = UKR tag = WUK tag = GAL } }
 	}
 }
 music = {
@@ -9279,7 +9353,7 @@ music = {
 	song = "war_declaration"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
@@ -9289,7 +9363,7 @@ music = {
 		modifier = {
 			add = 20
 			OR = {
-				has_cosmetic_tag = JAM_federation
+				OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI }
 				tag = LIB
 			}
 		}
@@ -9299,63 +9373,63 @@ music = {
 	song = "graf_zeppelin"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "old_lady_old_lady"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "iron_duke_in_the_land"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "back_to_my_west_indian_home"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "swine_lane_gal"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "caroline"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "sly_mongoose"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "a_si_pare"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
 	song = "la_grev_bare_mwen"
 	chance = {
 		base = 0
-		modifier = { add = 20	has_cosmetic_tag = JAM_federation }
+		modifier = { add = 20	OR = { tag = JAM tag = DOM tag = HAI tag = PUE tag = GYA tag = TRI } }
 	}
 }
 music = {
